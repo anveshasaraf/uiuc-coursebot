@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-huggingface
+langchain-openai
+langchain-pinecone
+langchain-core
+pinecone-client
+openai
+sentence-transformers
+transformers
+torch
+numpy
+regex

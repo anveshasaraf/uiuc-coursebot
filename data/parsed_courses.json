@@ -1,0 +1,4143 @@
+[
+  {
+    "course_code": "",
+    "title": "",
+    "credit_hours": null,
+    "description": "",
+    "schedule": [],
+    "instructors": [],
+    "restrictions": [],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 100",
+    "title": "Computer Science Orientation",
+    "credit_hours": 1,
+    "description": "Introduction to Computer Science as a field and career for incoming first year and external transfer students in the computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+    "schedule": [
+      {
+        "crn": "30094",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "03:00 PM",
+        "end_time": "03:50 PM",
+        "days": "F",
+        "location": "THEAT -"
+      }
+    ],
+    "instructors": [
+      "Shaffer, E",
+      "Tychonievich, L"
+    ],
+    "restrictions": [
+      "Restricted to First Time Freshman students.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 101",
+    "title": "Intro Computing: Engrg & Sci",
+    "credit_hours": 3,
+    "description": "Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors.",
+    "schedule": [
+      {
+        "crn": "35879",
+        "type": "LectureDiscussion",
+        "section": "AL1",
+        "start_time": "10:00 AM",
+        "end_time": "10:50 AM",
+        "days": "MW",
+        "location": "AUD -"
+      },
+      {
+        "crn": "35886",
+        "type": "LaboratoryDiscussion",
+        "section": "AYA",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "M",
+        "location": "0018 - Campus"
+      },
+      {
+        "crn": "35889",
+        "type": "LaboratoryDiscussion",
+        "section": "AYB",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "M",
+        "location": "0018 - Campus"
+      },
+      {
+        "crn": "35893",
+        "type": "LaboratoryDiscussion",
+        "section": "AYD",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "T",
+        "location": "0018 - Campus"
+      },
+      {
+        "crn": "61077",
+        "type": "LaboratoryDiscussion",
+        "section": "AYE",
+        "start_time": "11:00 AM",
+        "end_time": "12:50 PM",
+        "days": "T",
+        "location": "2036 - Campus"
+      },
+      {
+        "crn": "35915",
+        "type": "LaboratoryDiscussion",
+        "section": "AYF",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "T",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "35896",
+        "type": "LaboratoryDiscussion",
+        "section": "AYG",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "T",
+        "location": "2039 - Campus"
+      },
+      {
+        "crn": "35902",
+        "type": "LaboratoryDiscussion",
+        "section": "AYH",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "W",
+        "location": "0018 - Campus"
+      },
+      {
+        "crn": "35918",
+        "type": "LaboratoryDiscussion",
+        "section": "AYK",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "0018 - Campus"
+      },
+      {
+        "crn": "61078",
+        "type": "LaboratoryDiscussion",
+        "section": "AYL",
+        "start_time": "11:00 AM",
+        "end_time": "12:50 PM",
+        "days": "R",
+        "location": "2036 - Campus"
+      },
+      {
+        "crn": "35910",
+        "type": "LaboratoryDiscussion",
+        "section": "AYM",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "R",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "35913",
+        "type": "LaboratoryDiscussion",
+        "section": "AYN",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "62683",
+        "type": "LaboratoryDiscussion",
+        "section": "AYP",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "F",
+        "location": "2036 - Campus"
+      },
+      {
+        "crn": "62913",
+        "type": "LaboratoryDiscussion",
+        "section": "AYQ",
+        "start_time": "11:00 AM",
+        "end_time": "12:50 PM",
+        "days": "F",
+        "location": "2036 - Campus"
+      },
+      {
+        "crn": "62914",
+        "type": "LaboratoryDiscussion",
+        "section": "AYR",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "F",
+        "location": "2036 - Campus"
+      },
+      {
+        "crn": "75847",
+        "type": "LaboratoryDiscussion",
+        "section": "AYS",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "2036 - Campus"
+      }
+    ],
+    "instructors": [
+      "Fowler, M",
+      "Ritschel, N",
+      "Johns, J"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 105",
+    "title": "Intro Computing: Non-Tech",
+    "credit_hours": 3,
+    "description": "Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended for non-science and non-engineering majors.",
+    "schedule": [
+      {
+        "crn": "35823",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "03:30 PM",
+        "end_time": "04:20 PM",
+        "days": "MF",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "47174",
+        "type": "LaboratoryDiscussion",
+        "section": "AYA",
+        "start_time": "03:00 PM",
+        "end_time": "04:20 PM",
+        "days": "T",
+        "location": "70B -"
+      },
+      {
+        "crn": "35827",
+        "type": "LaboratoryDiscussion",
+        "section": "AYB",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "W",
+        "location": "70B -"
+      },
+      {
+        "crn": "35828",
+        "type": "LaboratoryDiscussion",
+        "section": "AYC",
+        "start_time": "01:00 PM",
+        "end_time": "02:20 PM",
+        "days": "R",
+        "location": "70B -"
+      },
+      {
+        "crn": "35847",
+        "type": "LaboratoryDiscussion",
+        "section": "AYD",
+        "start_time": "02:30 PM",
+        "end_time": "03:50 PM",
+        "days": "R",
+        "location": "70B -"
+      },
+      {
+        "crn": "35833",
+        "type": "LaboratoryDiscussion",
+        "section": "AYG",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "T",
+        "location": "101 - 901"
+      },
+      {
+        "crn": "35835",
+        "type": "LaboratoryDiscussion",
+        "section": "AYH",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "T",
+        "location": "101 - 901"
+      },
+      {
+        "crn": "35854",
+        "type": "LaboratoryDiscussion",
+        "section": "AYP",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "101 - 901"
+      },
+      {
+        "crn": "35856",
+        "type": "LaboratoryDiscussion",
+        "section": "AYQ",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "R",
+        "location": "101 - 901"
+      },
+      {
+        "crn": "35858",
+        "type": "LaboratoryDiscussion",
+        "section": "AYR",
+        "start_time": "04:00 PM",
+        "end_time": "05:20 PM",
+        "days": "R",
+        "location": "70B -"
+      }
+    ],
+    "instructors": [
+      "Lewis, C"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "MATH 112"
+  },
+  {
+    "course_code": "CS 107",
+    "title": "Data Science Discovery",
+    "credit_hours": 4,
+    "description": "Same as IS 107 and STAT 107. See STAT 107. This course satisfies the General Education Criteria for a: Quantitative Reasoning I",
+    "schedule": [
+      {
+        "crn": "71813",
+        "type": "Lecture",
+        "section": "L1",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "MWF",
+        "location": "THEAT -"
+      },
+      {
+        "crn": "78226",
+        "type": "Lecture",
+        "section": "L2",
+        "start_time": "09:00 AM",
+        "end_time": "09:50 AM",
+        "days": "MWF",
+        "location": "AUD -"
+      },
+      {
+        "crn": "79489",
+        "type": "Lecture",
+        "section": "X1",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "MWF",
+        "location": "THEAT -"
+      },
+      {
+        "crn": "80908",
+        "type": "Lecture",
+        "section": "X2",
+        "start_time": "09:00 AM",
+        "end_time": "09:50 AM",
+        "days": "MWF",
+        "location": "AUD -"
+      },
+      {
+        "crn": "71814",
+        "type": "LaboratoryDiscussion",
+        "section": "Y01",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "W",
+        "location": "164 - Noyes"
+      },
+      {
+        "crn": "71815",
+        "type": "LaboratoryDiscussion",
+        "section": "Y02",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "W",
+        "location": "1028 -"
+      },
+      {
+        "crn": "71816",
+        "type": "LaboratoryDiscussion",
+        "section": "Y03",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "W",
+        "location": "115 - David"
+      },
+      {
+        "crn": "71817",
+        "type": "LaboratoryDiscussion",
+        "section": "Y04",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "W",
+        "location": "430 - Armory"
+      },
+      {
+        "crn": "71818",
+        "type": "LaboratoryDiscussion",
+        "section": "Y05",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "W",
+        "location": "125 - David"
+      },
+      {
+        "crn": "71819",
+        "type": "LaboratoryDiscussion",
+        "section": "Y06",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "W",
+        "location": "113 - David"
+      },
+      {
+        "crn": "71820",
+        "type": "LaboratoryDiscussion",
+        "section": "Y07",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "W",
+        "location": "2018 - Campus"
+      },
+      {
+        "crn": "71822",
+        "type": "LaboratoryDiscussion",
+        "section": "Y08",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "307 - David"
+      },
+      {
+        "crn": "71823",
+        "type": "LaboratoryDiscussion",
+        "section": "Y09",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "313 -"
+      },
+      {
+        "crn": "71824",
+        "type": "LaboratoryDiscussion",
+        "section": "Y10",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "312 - David"
+      },
+      {
+        "crn": "71825",
+        "type": "LaboratoryDiscussion",
+        "section": "Y11",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "115 - David"
+      },
+      {
+        "crn": "77320",
+        "type": "LaboratoryDiscussion",
+        "section": "Y12",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "W",
+        "location": "313 -"
+      },
+      {
+        "crn": "77323",
+        "type": "LaboratoryDiscussion",
+        "section": "Y13",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "W",
+        "location": "1136 -"
+      },
+      {
+        "crn": "77324",
+        "type": "LaboratoryDiscussion",
+        "section": "Y14",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "W",
+        "location": "G32 -"
+      },
+      {
+        "crn": "77325",
+        "type": "LaboratoryDiscussion",
+        "section": "Y15",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "320 -"
+      },
+      {
+        "crn": "77326",
+        "type": "LaboratoryDiscussion",
+        "section": "Y16",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "3018 - Campus"
+      },
+      {
+        "crn": "77327",
+        "type": "LaboratoryDiscussion",
+        "section": "Y17",
+        "start_time": "08:00 AM",
+        "end_time": "09:20 AM",
+        "days": "R",
+        "location": "136 - Armory"
+      },
+      {
+        "crn": "78680",
+        "type": "LaboratoryDiscussion",
+        "section": "Y18",
+        "start_time": "08:00 AM",
+        "end_time": "09:20 AM",
+        "days": "R",
+        "location": "300 - Noyes"
+      },
+      {
+        "crn": "78682",
+        "type": "LaboratoryDiscussion",
+        "section": "Y19",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "R",
+        "location": "242 -"
+      },
+      {
+        "crn": "78686",
+        "type": "LaboratoryDiscussion",
+        "section": "Y20",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "R",
+        "location": "147 - Loomis"
+      },
+      {
+        "crn": "78688",
+        "type": "LaboratoryDiscussion",
+        "section": "Y21",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "R",
+        "location": "215 -"
+      },
+      {
+        "crn": "78690",
+        "type": "LaboratoryDiscussion",
+        "section": "Y22",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "R",
+        "location": "4101 - Materials"
+      },
+      {
+        "crn": "78693",
+        "type": "LaboratoryDiscussion",
+        "section": "Y23",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "1065 -"
+      },
+      {
+        "crn": "78695",
+        "type": "LaboratoryDiscussion",
+        "section": "Y24",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "104 - English"
+      },
+      {
+        "crn": "78727",
+        "type": "LaboratoryDiscussion",
+        "section": "Y25",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "137 - Armory"
+      },
+      {
+        "crn": "78730",
+        "type": "LaboratoryDiscussion",
+        "section": "Y26",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "303 - English"
+      },
+      {
+        "crn": "78733",
+        "type": "LaboratoryDiscussion",
+        "section": "Y27",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "R",
+        "location": "313 -"
+      },
+      {
+        "crn": "78736",
+        "type": "LaboratoryDiscussion",
+        "section": "Y28",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "R",
+        "location": "312 -"
+      },
+      {
+        "crn": "78775",
+        "type": "LaboratoryDiscussion",
+        "section": "Y29",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "R",
+        "location": "336 -"
+      },
+      {
+        "crn": "79505",
+        "type": "LaboratoryDiscussion",
+        "section": "Y30",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "F",
+        "location": "147 - Loomis"
+      },
+      {
+        "crn": "79507",
+        "type": "LaboratoryDiscussion",
+        "section": "Y31",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "F",
+        "location": "137 - Henry"
+      },
+      {
+        "crn": "79506",
+        "type": "LaboratoryDiscussion",
+        "section": "Y32",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "F",
+        "location": "137 - Armory"
+      },
+      {
+        "crn": "79508",
+        "type": "LaboratoryDiscussion",
+        "section": "Y33",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "214 -"
+      },
+      {
+        "crn": "79501",
+        "type": "LaboratoryDiscussion",
+        "section": "Y34",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "G24 -"
+      },
+      {
+        "crn": "79503",
+        "type": "LaboratoryDiscussion",
+        "section": "Y35",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "119 - English"
+      },
+      {
+        "crn": "79502",
+        "type": "LaboratoryDiscussion",
+        "section": "Y36",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "307 - David"
+      },
+      {
+        "crn": "79493",
+        "type": "LaboratoryDiscussion",
+        "section": "Y37",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "G32 -"
+      },
+      {
+        "crn": "71821",
+        "type": "LaboratoryDiscussion",
+        "section": "Y38",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "G30 -"
+      },
+      {
+        "crn": "77321",
+        "type": "LaboratoryDiscussion",
+        "section": "Y39",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "G36 -"
+      },
+      {
+        "crn": "78684",
+        "type": "LaboratoryDiscussion",
+        "section": "Y40",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "313 -"
+      },
+      {
+        "crn": "78697",
+        "type": "LaboratoryDiscussion",
+        "section": "Y41",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "1136 -"
+      },
+      {
+        "crn": "78699",
+        "type": "LaboratoryDiscussion",
+        "section": "Y42",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "F",
+        "location": "313 -"
+      },
+      {
+        "crn": "78772",
+        "type": "LaboratoryDiscussion",
+        "section": "Y43",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "F",
+        "location": "G32 -"
+      },
+      {
+        "crn": "79504",
+        "type": "LaboratoryDiscussion",
+        "section": "Y44",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "F",
+        "location": "312 -"
+      }
+    ],
+    "instructors": [
+      "FagenUlmschneider,\nW",
+      "Flanagan, K",
+      "FagenUlmschneider,\nW",
+      "Flanagan, K",
+      "FagenUlmschneider,\nW",
+      "Flanagan, K",
+      "FagenUlmschneider,\nW",
+      "Flanagan, K"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to First Time Freshman students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to First Time Freshman students.",
+      "Restricted to First Time Freshman students.",
+      "Restricted to First Time Freshman students."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 124",
+    "title": "Introduction to Computer Science I",
+    "credit_hours": 3,
+    "description": "Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing. Credit is not given for both CS 124 and CS 125.",
+    "schedule": [
+      {
+        "crn": "74481",
+        "type": "LaboratoryDiscussion",
+        "section": "QBA",
+        "start_time": "10:00 AM",
+        "end_time": "10:50 AM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74482",
+        "type": "LaboratoryDiscussion",
+        "section": "QBB",
+        "start_time": "10:00 AM",
+        "end_time": "10:50 AM",
+        "days": "T",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "74490",
+        "type": "LaboratoryDiscussion",
+        "section": "QBC",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74491",
+        "type": "LaboratoryDiscussion",
+        "section": "QBD",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "T",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "74492",
+        "type": "LaboratoryDiscussion",
+        "section": "QBE",
+        "start_time": "01:00 PM",
+        "end_time": "01:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74493",
+        "type": "LaboratoryDiscussion",
+        "section": "QBF",
+        "start_time": "01:00 PM",
+        "end_time": "01:50 PM",
+        "days": "T",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "74494",
+        "type": "LaboratoryDiscussion",
+        "section": "QBG",
+        "start_time": "02:00 PM",
+        "end_time": "02:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74495",
+        "type": "LaboratoryDiscussion",
+        "section": "QBH",
+        "start_time": "02:00 PM",
+        "end_time": "02:50 PM",
+        "days": "T",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "74496",
+        "type": "LaboratoryDiscussion",
+        "section": "QBI",
+        "start_time": "03:00 PM",
+        "end_time": "03:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74497",
+        "type": "LaboratoryDiscussion",
+        "section": "QBJ",
+        "start_time": "12:00 PM",
+        "end_time": "12:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74498",
+        "type": "LaboratoryDiscussion",
+        "section": "QBK",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74499",
+        "type": "LaboratoryDiscussion",
+        "section": "QBL",
+        "start_time": "12:00 PM",
+        "end_time": "12:50 PM",
+        "days": "T",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "74500",
+        "type": "LaboratoryDiscussion",
+        "section": "QBM",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "T",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "74501",
+        "type": "LaboratoryDiscussion",
+        "section": "QBN",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "T",
+        "location": "4029 - Campus"
+      }
+    ],
+    "instructors": [
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G",
+      "Challen, G"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 128",
+    "title": "Introduction to Computer Science II",
+    "credit_hours": 3,
+    "description": "Continuation of CS 124. More advanced concepts in computing and techniques and approaches for solving computational problems.",
+    "schedule": [
+      {
+        "crn": "74509",
+        "type": "LaboratoryDiscussion",
+        "section": "ADD",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "F",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "74511",
+        "type": "LaboratoryDiscussion",
+        "section": "ADF",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "F",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "74512",
+        "type": "LaboratoryDiscussion",
+        "section": "ADG",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "F",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "74513",
+        "type": "LaboratoryDiscussion",
+        "section": "ADH",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "F",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "74514",
+        "type": "LaboratoryDiscussion",
+        "section": "ADI",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "F",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "74515",
+        "type": "LaboratoryDiscussion",
+        "section": "ADJ",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "F",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "75285",
+        "type": "LaboratoryDiscussion",
+        "section": "ADK",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "F",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "75286",
+        "type": "LaboratoryDiscussion",
+        "section": "ADL",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "F",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "75287",
+        "type": "LaboratoryDiscussion",
+        "section": "ADM",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "F",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "75288",
+        "type": "LaboratoryDiscussion",
+        "section": "ADN",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "F",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "75290",
+        "type": "LaboratoryDiscussion",
+        "section": "ADP",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "F",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "75291",
+        "type": "LaboratoryDiscussion",
+        "section": "ADQ",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "F",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "75293",
+        "type": "LaboratoryDiscussion",
+        "section": "ADS",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "F",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "75294",
+        "type": "LaboratoryDiscussion",
+        "section": "ADT",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "F",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "75295",
+        "type": "LaboratoryDiscussion",
+        "section": "ADU",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "F",
+        "location": "2406 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M",
+      "Nowak, M"
+    ],
+    "restrictions": [
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 124 or CS 125"
+  },
+  {
+    "course_code": "CS 173",
+    "title": "Discrete Structures",
+    "credit_hours": 3,
+    "description": "[IAI Code: CS915] Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. Credit is not given toward graduation for: Credit is not given for both CS 173 and MATH 213.",
+    "schedule": [
+      {
+        "crn": "30102",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "3039 - Campus"
+      },
+      {
+        "crn": "72280",
+        "type": "Lecture",
+        "section": "AL2",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "3039 - Campus"
+      },
+      {
+        "crn": "40083",
+        "type": "Lecture",
+        "section": "BL1",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "72281",
+        "type": "Lecture",
+        "section": "BL2",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "51495",
+        "type": "Lecture",
+        "section": "CL1",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "TR",
+        "location": "3039 - Campus"
+      },
+      {
+        "crn": "51497",
+        "type": "Lecture",
+        "section": "CL2",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "TR",
+        "location": "3039 - Campus"
+      },
+      {
+        "crn": "51499",
+        "type": "LectureDiscussion",
+        "section": "HON",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "WF",
+        "location": "3025 - Campus"
+      },
+      {
+        "crn": "40944",
+        "type": "Laboratory",
+        "section": "225",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "M",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "70755",
+        "type": "Lecture",
+        "section": "233",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "69688",
+        "type": "Online",
+        "section": "341",
+        "start_time": "07:00 PM",
+        "end_time": "08:50 PM",
+        "days": "T",
+        "location": "- Angrave, L"
+      },
+      {
+        "crn": "31512",
+        "type": "LectureDiscussion",
+        "section": "CSX",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "M",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "60891",
+        "type": "Lecture",
+        "section": "E28",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "M",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "31511",
+        "type": "Lecture",
+        "section": "STR",
+        "start_time": "05:00 PM",
+        "end_time": "06:00 PM",
+        "days": "W",
+        "location": "ARR - Siebel"
+      }
+    ],
+    "instructors": [
+      "Balepur, N",
+      "Evans, C",
+      "Balepur, N",
+      "Evans, C",
+      "Balepur, N",
+      "Evans, C",
+      "Balepur, N",
+      "Evans, C",
+      "Balepur, N",
+      "Evans, C",
+      "Balepur, N",
+      "Evans, C",
+      "Parthasarathy,\nM",
+      "Solomon, B",
+      "Ghose, S",
+      "Gertner, Y",
+      "Challen, G",
+      "Amato, N"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to James Scholars Program students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS 124 Course Assistants.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to students concurrently registered in CS 124.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS 124 Honors staff.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "One of CS 124, CS 125, ECE 220; one of MATH 220, MATH 221"
+  },
+  {
+    "course_code": "CS 210",
+    "title": "Ethical & Professional Issues",
+    "credit_hours": 2,
+    "description": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. Credit is not given for both CS 210 and either CS 211 or ECE 316.",
+    "schedule": [
+      {
+        "crn": "31517",
+        "type": "LectureDiscussion",
+        "section": "CSP",
+        "start_time": "09:30 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "- Winter, G"
+      },
+      {
+        "crn": "31516",
+        "type": "LectureDiscussion",
+        "section": "EA1",
+        "start_time": "03:00 PM",
+        "end_time": "03:50 PM",
+        "days": "MW",
+        "location": "1404 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Cunningham, R"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science major(s).",
+      "Restricted to students with Junior or Senior class standing."
+    ],
+    "prerequisites": "CS 225"
+  },
+  {
+    "course_code": "CS 211",
+    "title": "Ethical and Professional Conduct",
+    "credit_hours": 3,
+    "description": "Navigating the complex ethical and professional landscape of the computing professional: privacy, intellectual property, cybersecurity, and freedom of speech. Hands-on exercises, assignments, and discussions in which students analyze current events from perspectives in both philosophical and professional ethics. Writing professionally and technically in several writing assignments requiring peer review, workshops, and multiple rounds of editing and revising. Credit is not given for both CS 211 and CS 210 or ECE 316.",
+    "schedule": [
+      {
+        "crn": "77707",
+        "type": "LectureDiscussion",
+        "section": "CSP",
+        "start_time": "09:30 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "- Winter, G"
+      },
+      {
+        "crn": "74483",
+        "type": "LectureDiscussion",
+        "section": "EA1",
+        "start_time": "03:00 PM",
+        "end_time": "03:50 PM",
+        "days": "MWF",
+        "location": "1404 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Cunningham, R"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science major(s).",
+      "Restricted to students with Junior or Senior class standing."
+    ],
+    "prerequisites": "CS 225"
+  },
+  {
+    "course_code": "CS 222",
+    "title": "Software Design Lab",
+    "credit_hours": 1,
+    "description": "Design and implementation of novel software solutions. Problem identification and definition; idea generation and evaluation; and software implementation, testing, and deployment. Emphasizes software development best practices\u2014including framework selection, code review, documentation, appropriate library usage, project management, continuous integration and testing, and teamwork.",
+    "schedule": [
+      {
+        "crn": "74484",
+        "type": "LectureDiscussion",
+        "section": "SL1",
+        "start_time": "02:00 PM",
+        "end_time": "02:50 PM",
+        "days": "F",
+        "location": "0027/1025"
+      }
+    ],
+    "instructors": [
+      "Woodley, M"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students."
+    ],
+    "prerequisites": "CS 128; credit or concurrent registration in CS 225"
+  },
+  {
+    "course_code": "CS 225",
+    "title": "Data Structures",
+    "credit_hours": 4,
+    "description": "Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and trees. Elementary analysis of algorithms. Credit is not given toward graduation for: CS 277 if credit for CS 225 has been earned.",
+    "schedule": [
+      {
+        "crn": "65054",
+        "type": "LaboratoryDiscussion",
+        "section": "ABA",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "61264",
+        "type": "LaboratoryDiscussion",
+        "section": "ABB",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "R",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "35926",
+        "type": "LaboratoryDiscussion",
+        "section": "ABC",
+        "start_time": "11:00 AM",
+        "end_time": "12:50 PM",
+        "days": "R",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "35923",
+        "type": "LaboratoryDiscussion",
+        "section": "ABD",
+        "start_time": "11:00 AM",
+        "end_time": "12:50 PM",
+        "days": "R",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "35944",
+        "type": "LaboratoryDiscussion",
+        "section": "ABE",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "R",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "58757",
+        "type": "LaboratoryDiscussion",
+        "section": "ABF",
+        "start_time": "01:00 PM",
+        "end_time": "02:50 PM",
+        "days": "R",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "62137",
+        "type": "LaboratoryDiscussion",
+        "section": "ABG",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "58758",
+        "type": "LaboratoryDiscussion",
+        "section": "ABH",
+        "start_time": "03:00 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "35947",
+        "type": "LaboratoryDiscussion",
+        "section": "ABI",
+        "start_time": "05:00 PM",
+        "end_time": "06:50 PM",
+        "days": "R",
+        "location": "4025 - Campus"
+      },
+      {
+        "crn": "35954",
+        "type": "LaboratoryDiscussion",
+        "section": "ABJ",
+        "start_time": "05:00 PM",
+        "end_time": "06:50 PM",
+        "days": "R",
+        "location": "4029 - Campus"
+      },
+      {
+        "crn": "75824",
+        "type": "Laboratory",
+        "section": "AH",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "M",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "35917",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "MWF",
+        "location": "AUD -"
+      },
+      {
+        "crn": "72271",
+        "type": "Lecture",
+        "section": "AL2",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "MWF",
+        "location": "AUD -"
+      }
+    ],
+    "instructors": [
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B",
+      "Solomon, B"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to James Scholars Program students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 233",
+    "title": "Computer Architecture",
+    "credit_hours": 4,
+    "description": "Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for parallelism and security.",
+    "schedule": [
+      {
+        "crn": "63733",
+        "type": "LectureDiscussion",
+        "section": "AL1",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      },
+      {
+        "crn": "72275",
+        "type": "LectureDiscussion",
+        "section": "AL2",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      }
+    ],
+    "instructors": [
+      "Herman, G",
+      "Herman, G"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 307",
+    "title": "Modeling and Learning in Data Science",
+    "credit_hours": 4,
+    "description": "Introduction to the use of classical approaches in data modeling and machine learning in the context of solving data-centric problems. A broad coverage of fundamental models is presented, including linear models, unsupervised learning, supervised learning, and deep learning. A significant emphasis is placed on the application of the models in Python and the interpretability of the results.",
+    "schedule": [],
+    "instructors": [
+      "Dalpiaz, D",
+      "Dalpiaz, D",
+      "Dalpiaz, D",
+      "Dalpiaz, D",
+      "Dalpiaz, D",
+      "Dalpiaz, D",
+      "Dalpiaz, D"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "restricted to students in DS+X majors initially, and open initially to students who were freshmen in Fall 2022 or earlier.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 340",
+    "title": "Introduction to Computer Systems",
+    "credit_hours": 3,
+    "description": "Basics of computer systems. Number representations, assembly/machine language, abstract models of processors (fetch/execute, memory hierarchy), processes/process control, simple memory management, file I/O and directories, network programming, usage of cloud services. Credit is not given for both CS 340 and CS 240.",
+    "schedule": [
+      {
+        "crn": "77096",
+        "type": "Lecture",
+        "section": "ICS",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "2079 - Natural"
+      }
+    ],
+    "instructors": [
+      "Schatz, J",
+      "Tychonievich, L"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 128 and CS 225"
+  },
+  {
+    "course_code": "CS 341",
+    "title": "System Programming",
+    "credit_hours": 4,
+    "description": "Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools. Credit is not given for both CS 341 and either CS 241 or ECE 391.",
+    "schedule": [
+      {
+        "crn": "76768",
+        "type": "LaboratoryDiscussion",
+        "section": "ADA",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "R",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "76769",
+        "type": "LaboratoryDiscussion",
+        "section": "ADB",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "R",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "76770",
+        "type": "LaboratoryDiscussion",
+        "section": "ADC",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "R",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "76771",
+        "type": "LaboratoryDiscussion",
+        "section": "ADD",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "76772",
+        "type": "LaboratoryDiscussion",
+        "section": "ADE",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "R",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "76773",
+        "type": "LaboratoryDiscussion",
+        "section": "ADF",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "R",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "76775",
+        "type": "LaboratoryDiscussion",
+        "section": "ADH",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "R",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "76776",
+        "type": "LaboratoryDiscussion",
+        "section": "ADI",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "R",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "76777",
+        "type": "LaboratoryDiscussion",
+        "section": "ADJ",
+        "start_time": "05:00 PM",
+        "end_time": "06:15 PM",
+        "days": "R",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "76767",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "10:00 AM",
+        "end_time": "10:50 AM",
+        "days": "MWF",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "77652",
+        "type": "Laboratory",
+        "section": "CSP",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "R",
+        "location": "- Angrave, L"
+      }
+    ],
+    "instructors": [
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L",
+      "Angrave, L"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students."
+    ],
+    "prerequisites": "CS 225 and CS 233"
+  },
+  {
+    "course_code": "CS 357",
+    "title": "Numerical Methods I",
+    "credit_hours": 3,
+    "description": "Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. Same as MATH 357. Credit is not given towards graduation for CS 357 if credit for CS 450 has been earned. (Counts for advanced hours in LAS).",
+    "schedule": [
+      {
+        "crn": "53280",
+        "type": "LectureDiscussion",
+        "section": "N",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      }
+    ],
+    "instructors": [],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 361",
+    "title": "Probability & Statistics for Computer Science",
+    "credit_hours": 3,
+    "description": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees. Same as STAT 361. Credit is not given for both CS 361 and ECE 313.",
+    "schedule": [
+      {
+        "crn": "66298",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "0027/1025"
+      }
+    ],
+    "instructors": [
+      "Karan, A",
+      "Karan, A",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H",
+      "Liu, H"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 374",
+    "title": "Introduction to Algorithms & Models of Computation",
+    "credit_hours": 4,
+    "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. Same as ECE 374.",
+    "schedule": [
+      {
+        "crn": "66445",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "70641",
+        "type": "Lecture",
+        "section": "BL1",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      }
+    ],
+    "instructors": [
+      "Erickson, J",
+      "Erickson, J",
+      "Erickson, J",
+      "Erickson, J",
+      "Erickson, J",
+      "Erickson, J",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Alabi, D",
+      "Kani, N",
+      "Kani, N",
+      "Kani, N"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science major(s).",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "One of CS 173, MATH 213; CS 225"
+  },
+  {
+    "course_code": "CS 400",
+    "title": "Accelerated Fundamentals of Computing I",
+    "credit_hours": 3,
+    "description": "The first class in a sequence of two classes that introduces students to the basic concepts in computing with an emphasis on the fundamental techniques for solving computational problems. Topics include: core programming concepts (variables, data types, conditional expressions, loops, functions), basic data structures, searching and sorting algorithms, and data exploration and visualization. No prior programming experience is required. No undergraduate credit. 3 graduate hours.",
+    "schedule": [],
+    "instructors": [],
+    "restrictions": [
+      "Restricted to postbaccalaureate students with a non-computing background.",
+      "Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 401",
+    "title": "Accelerated Fundamentals of Algorithms I",
+    "credit_hours": 3,
+    "description": "The first class in a sequence of two classes that introduces students to the theoretical foundations of computer science. Topics include counting, sets, functions, decision trees, recursion, binary numbers, basic graph theory, depth first search and breadth first search, algorithms for computing shortest paths, data structures like stacks and queues, big O notation and asymptotic analysis, complexity classes like P and NP, and reductions. No undergraduate credit. 3 graduate hours.",
+    "schedule": [
+      {
+        "crn": "76149",
+        "type": "Lecture",
+        "section": "A",
+        "start_time": "05:00 PM",
+        "end_time": "06:20 PM",
+        "days": "TR",
+        "location": "1013 - Electrical"
+      },
+      {
+        "crn": "78709",
+        "type": "LectureDiscussion",
+        "section": "CSP",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "79735",
+        "type": "LectureDiscussion",
+        "section": "MC3",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "79326",
+        "type": "LectureDiscussion",
+        "section": "MC4",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "76905",
+        "type": "LectureDiscussion",
+        "section": "WPG",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      },
+      {
+        "crn": "76904",
+        "type": "LectureDiscussion",
+        "section": "WPU",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      },
+      {
+        "crn": "78821",
+        "type": "Lecture",
+        "section": "TGR",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "100 - Materials"
+      },
+      {
+        "crn": "78820",
+        "type": "Lecture",
+        "section": "TUG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "100 - Materials"
+      },
+      {
+        "crn": "75726",
+        "type": "Lecture",
+        "section": "AG",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1024 -"
+      },
+      {
+        "crn": "75725",
+        "type": "Lecture",
+        "section": "AU",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1024 -"
+      },
+      {
+        "crn": "40086",
+        "type": "Lecture",
+        "section": "QG",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "MW",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "30109",
+        "type": "Lecture",
+        "section": "QU",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "MW",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "43358",
+        "type": "LectureDiscussion",
+        "section": "PG",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "43357",
+        "type": "LectureDiscussion",
+        "section": "PU",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "33540",
+        "type": "LectureDiscussion",
+        "section": "X13",
+        "start_time": "01:00 PM",
+        "end_time": "01:50 PM",
+        "days": "MWF",
+        "location": "4039 - Campus"
+      },
+      {
+        "crn": "39196",
+        "type": "LectureDiscussion",
+        "section": "X14",
+        "start_time": "01:00 PM",
+        "end_time": "01:50 PM",
+        "days": "MWF",
+        "location": "4039 - Campus"
+      },
+      {
+        "crn": "40087",
+        "type": "LectureDiscussion",
+        "section": "DG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "AUD -"
+      },
+      {
+        "crn": "30128",
+        "type": "LectureDiscussion",
+        "section": "DU",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "AUD -"
+      },
+      {
+        "crn": "30132",
+        "type": "LectureDiscussion",
+        "section": "T3",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "40088",
+        "type": "LectureDiscussion",
+        "section": "T4",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "36115",
+        "type": "LectureDiscussion",
+        "section": "SG",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "2100 - Sidney"
+      },
+      {
+        "crn": "36113",
+        "type": "LectureDiscussion",
+        "section": "SU",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "2100 - Sidney"
+      },
+      {
+        "crn": "51776",
+        "type": "LectureDiscussion",
+        "section": "PG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "51775",
+        "type": "LectureDiscussion",
+        "section": "PU",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "57769",
+        "type": "LectureDiscussion",
+        "section": "SG",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "36091",
+        "type": "LectureDiscussion",
+        "section": "SU",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "43356",
+        "type": "LectureDiscussion",
+        "section": "NG",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "43355",
+        "type": "LectureDiscussion",
+        "section": "NU",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "79901",
+        "type": "LectureDiscussion",
+        "section": "CSP",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "36076",
+        "type": "LectureDiscussion",
+        "section": "MCS",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "36069",
+        "type": "LectureDiscussion",
+        "section": "T3",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "157 - Noyes"
+      },
+      {
+        "crn": "43363",
+        "type": "LectureDiscussion",
+        "section": "T4",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "157 - Noyes"
+      },
+      {
+        "crn": "36061",
+        "type": "LectureDiscussion",
+        "section": "X3",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "MW",
+        "location": "1320 - Digital"
+      },
+      {
+        "crn": "57772",
+        "type": "LectureDiscussion",
+        "section": "X4",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "MW",
+        "location": "1320 - Digital"
+      },
+      {
+        "crn": "61199",
+        "type": "Lecture",
+        "section": "B3",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "WF",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "61201",
+        "type": "Lecture",
+        "section": "B4",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "WF",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "67003",
+        "type": "Lecture",
+        "section": "R3",
+        "start_time": "09:00 AM",
+        "end_time": "09:50 AM",
+        "days": "MWF",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "67004",
+        "type": "Lecture",
+        "section": "R4",
+        "start_time": "09:00 AM",
+        "end_time": "09:50 AM",
+        "days": "MWF",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "74468",
+        "type": "LectureDiscussion",
+        "section": "AMG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "74467",
+        "type": "LectureDiscussion",
+        "section": "AMU",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "0027/1025"
+      },
+      {
+        "crn": "78419",
+        "type": "LectureDiscussion",
+        "section": "CVG",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "3031 - Campus"
+      },
+      {
+        "crn": "77548",
+        "type": "LectureDiscussion",
+        "section": "CVU",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "3031 - Campus"
+      },
+      {
+        "crn": "36016",
+        "type": "LectureDiscussion",
+        "section": "BL1",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      },
+      {
+        "crn": "36020",
+        "type": "LectureDiscussion",
+        "section": "BL2",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "0035 - Campus"
+      },
+      {
+        "crn": "78448",
+        "type": "Laboratory",
+        "section": "LB1",
+        "start_time": "05:00 PM",
+        "end_time": "07:50 PM",
+        "days": "W",
+        "location": "0218 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Luo, N",
+      "Kumar, R",
+      "Kumar, R",
+      "Kumar, R",
+      "Kumar, R",
+      "Kumar, R",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Granda, P",
+      "Kang, D",
+      "Kang, D",
+      "Alawini, A",
+      "Alawini, A",
+      "Tong, H",
+      "Tong, H",
+      "Keating, D",
+      "Keating, D",
+      "Gunter, E",
+      "Gunter, E",
+      "Gunter, E",
+      "Gunter, E",
+      "Rosu, G",
+      "Rosu, G",
+      "Alagappan, R",
+      "Xu, T",
+      "Alagappan, R",
+      "Xu, T",
+      "Sha, L",
+      "Sha, L",
+      "Gupta, I",
+      "Gupta, I",
+      "Gupta, I",
+      "Gupta, I",
+      "Gupta, I",
+      "Ganesan, A",
+      "Gupta, I",
+      "Ganesan, A",
+      "Gupta, I",
+      "Adve, V",
+      "Adve, V",
+      "Ghose, S",
+      "Ghose, S",
+      "Ghose, S",
+      "Ghose, S",
+      "Caesar, M",
+      "Caesar, M",
+      "Agarwal, S",
+      "Wei, Y",
+      "Agarwal, S",
+      "Wei, Y",
+      "Kravets, R",
+      "Kravets, R",
+      "Fleck, M",
+      "Fleck, M",
+      "Hoiem, D",
+      "Hoiem, D",
+      "Aguirre, M",
+      "Aguirre, M",
+      "Aguirre, M",
+      "Gupta, S",
+      "Gupta, S",
+      "Kloeckner, A",
+      "Olson, L",
+      "Kloeckner, A",
+      "Olson, L",
+      "Nicol, D"
+    ],
+    "restrictions": [
+      "Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 225"
+  },
+  {
+    "course_code": "CS 461",
+    "title": "Computer Security I",
+    "credit_hours": 4,
+    "description": "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution. Same as ECE 422. 4 undergraduate hours. 4 graduate hours.",
+    "schedule": [
+      {
+        "crn": "49547",
+        "type": "Lecture",
+        "section": "AL4",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1320 - Digital"
+      },
+      {
+        "crn": "72159",
+        "type": "Lecture",
+        "section": "ALG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1320 - Digital"
+      }
+    ],
+    "instructors": [
+      "Borisov, N",
+      "Borisov, N",
+      "Borisov, N",
+      "Borisov, N",
+      "Borisov, N",
+      "Borisov, N",
+      "Borisov, N",
+      "Zhang, Y",
+      "Borisov, N",
+      "Zhang, Y"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC."
+    ],
+    "prerequisites": "CCS 225 and one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400"
+  },
+  {
+    "course_code": "CS 464",
+    "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+    "credit_hours": 3,
+    "description": "Topics selected from key current areas of impact of computer technology on aspects of society and ethics such as: freedom versus the rule of law in cyberspace; social discourse; privacy; livelihoods and automation; fairness; security; political change; business models; technology divide. 3 undergraduate hours. No graduate credit. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "74739",
+        "type": "Lecture",
+        "section": "CD1",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1214 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Gunter, C"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 465",
+    "title": "User Interface Design",
+    "credit_hours": 4,
+    "description": "A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation. 4 undergraduate hours. 4 graduate hours.",
+    "schedule": [
+      {
+        "crn": "67943",
+        "type": "LaboratoryDiscussion",
+        "section": "AD1",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "F",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "67945",
+        "type": "LaboratoryDiscussion",
+        "section": "AD2",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "67946",
+        "type": "LaboratoryDiscussion",
+        "section": "AD3",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "F",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "67944",
+        "type": "LaboratoryDiscussion",
+        "section": "AD4",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "3038 - Campus"
+      },
+      {
+        "crn": "76292",
+        "type": "LaboratoryDiscussion",
+        "section": "AD5",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "2018 - Campus"
+      },
+      {
+        "crn": "67948",
+        "type": "LaboratoryDiscussion",
+        "section": "AD6",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "3117 - Everitt"
+      },
+      {
+        "crn": "69398",
+        "type": "LaboratoryDiscussion",
+        "section": "AD7",
+        "start_time": "02:00 PM",
+        "end_time": "03:20 PM",
+        "days": "F",
+        "location": "3117 - Everitt"
+      },
+      {
+        "crn": "72163",
+        "type": "LectureDiscussion",
+        "section": "AEG",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "1320 - Digital"
+      },
+      {
+        "crn": "43389",
+        "type": "LectureDiscussion",
+        "section": "AEU",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "1320 - Digital"
+      },
+      {
+        "crn": "70496",
+        "type": "LaboratoryDiscussion",
+        "section": "CSP",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "- Bailey, B"
+      },
+      {
+        "crn": "67949",
+        "type": "LaboratoryDiscussion",
+        "section": "MCS",
+        "start_time": "11:00 AM",
+        "end_time": "12:20 PM",
+        "days": "F",
+        "location": "- Bailey, B"
+      }
+    ],
+    "instructors": [
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B",
+      "Bailey, B"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC."
+    ],
+    "prerequisites": "CS 225"
+  },
+  {
+    "course_code": "CS 468",
+    "title": "Tech and Advertising Campaigns",
+    "credit_hours": 3,
+    "description": "Same as ADV 492. See ADV 492.",
+    "schedule": [
+      {
+        "crn": "67895",
+        "type": "LectureDiscussion",
+        "section": "A",
+        "start_time": "09:00 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "31 -"
+      },
+      {
+        "crn": "77201",
+        "type": "LectureDiscussion",
+        "section": "HSG",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "77200",
+        "type": "LectureDiscussion",
+        "section": "HSU",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "79869",
+        "type": "LectureDiscussion",
+        "section": "MCS",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "W",
+        "location": "ARR - Illini"
+      }
+    ],
+    "instructors": [
+      "Su, L",
+      "Sundaram, H",
+      "Sundaram, H",
+      "Sundaram, H"
+    ],
+    "restrictions": [
+      "Restricted to students with Junior or Senior class standing.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 473",
+    "title": "Algorithms",
+    "credit_hours": 4,
+    "description": "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others. Same as CSE 414 and MATH 473. 4 undergraduate hours. 4 graduate hours.",
+    "schedule": [
+      {
+        "crn": "70159",
+        "type": "LectureDiscussion",
+        "section": "S4",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "151 - Loomis"
+      },
+      {
+        "crn": "72165",
+        "type": "LectureDiscussion",
+        "section": "S4G",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "151 - Loomis"
+      },
+      {
+        "crn": "35887",
+        "type": "LectureDiscussion",
+        "section": "C3",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "M",
+        "location": "106B1 -"
+      },
+      {
+        "crn": "35895",
+        "type": "LectureDiscussion",
+        "section": "C4",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "M",
+        "location": "106B1 -"
+      },
+      {
+        "crn": "79870",
+        "type": "LectureDiscussion",
+        "section": "MC3",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "F",
+        "location": "- Viswanathan, M"
+      },
+      {
+        "crn": "79871",
+        "type": "LectureDiscussion",
+        "section": "MC4",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "F",
+        "location": "- Viswanathan, M"
+      },
+      {
+        "crn": "52040",
+        "type": "Laboratory",
+        "section": "E",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "MW",
+        "location": "1043 - Sidney"
+      },
+      {
+        "crn": "58069",
+        "type": "Laboratory",
+        "section": "G",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "MW",
+        "location": "1043 - Sidney"
+      }
+    ],
+    "instructors": [
+      "Sinha, M",
+      "Sinha, M",
+      "Viswanathan, M",
+      "Viswanathan, M",
+      "Jacobson, S",
+      "Jacobson, S",
+      "Jacobson, S",
+      "Jacobson, S"
+    ],
+    "restrictions": [
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 374 or ECE 374"
+  },
+  {
+    "course_code": "CS 483",
+    "title": "Applied Parallel Programming",
+    "credit_hours": 4,
+    "description": "page 57 - Computer Science, Fall 2025 Same as CSE 408 and ECE 408. See ECE 408.",
+    "schedule": [
+      {
+        "crn": "76324",
+        "type": "Lecture",
+        "section": "AL1",
+        "start_time": "09:30 AM",
+        "end_time": "10:50 AM",
+        "days": "TR",
+        "location": "1002 - Electrical"
+      },
+      {
+        "crn": "65816",
+        "type": "Laboratory",
+        "section": "CAP",
+        "start_time": "03:30 PM",
+        "end_time": "04:20 PM",
+        "days": "MWF",
+        "location": "2101 - Everitt"
+      },
+      {
+        "crn": "54321",
+        "type": "Lecture",
+        "section": "CB",
+        "start_time": "05:00 PM",
+        "end_time": "06:00 PM",
+        "days": "W",
+        "location": "301 -"
+      },
+      {
+        "crn": "67520",
+        "type": "Online",
+        "section": "ECO",
+        "start_time": "01:00 PM",
+        "end_time": "02:15 PM",
+        "days": "F",
+        "location": "- Gertner, Y"
+      },
+      {
+        "crn": "40557",
+        "type": "LectureDiscussion",
+        "section": "EIT",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "R",
+        "location": "0216 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Kindratenko, V",
+      "Beckman, M",
+      "Bashir, M",
+      "Levchenko, K",
+      "Williams, T",
+      "Lewis, C"
+    ],
+    "restrictions": [
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to MENG:Elec & Comp Eng ONL -UIUC.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 492",
+    "title": "Senior Project I",
+    "credit_hours": 3,
+    "description": "First part of a project course in computer science. Students work in teams to solve typical commercial or industrial problems. Work involves planning, design, and implementation. Extensive oral and written work is required both on-campus and possibly off-campus at sponsors' locations. CS 492 must be taken as a sequence with either CS 493 or CS 494. 3 undergraduate hours. No graduate credit. Credit is not given for both CS 492 and a project course in another engineering department for the same project.",
+    "schedule": [
+      {
+        "crn": "30139",
+        "type": "LectureDiscussion",
+        "section": "CS",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "W",
+        "location": "0218 - Siebel"
+      },
+      {
+        "crn": "54283",
+        "type": "LaboratoryDiscussion",
+        "section": "CSP",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "F",
+        "location": "- Mitra, S"
+      },
+      {
+        "crn": "61482",
+        "type": "Lecture",
+        "section": "GC3",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "47171",
+        "type": "Lecture",
+        "section": "GCG",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "40094",
+        "type": "Lecture",
+        "section": "GCU",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "65109",
+        "type": "Lecture",
+        "section": "LS3",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "70372",
+        "type": "Lecture",
+        "section": "LSG",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "70363",
+        "type": "Lecture",
+        "section": "LSU",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "54284",
+        "type": "LaboratoryDiscussion",
+        "section": "MC4",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "F",
+        "location": "- Mitra, S"
+      },
+      {
+        "crn": "49838",
+        "type": "Lecture",
+        "section": "RC1",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "114 -"
+      },
+      {
+        "crn": "31535",
+        "type": "Lecture",
+        "section": "RCG",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "114 -"
+      },
+      {
+        "crn": "61940",
+        "type": "Lecture",
+        "section": "RCU",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "114 -"
+      },
+      {
+        "crn": "43500",
+        "type": "Lecture",
+        "section": "RM3",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "67901",
+        "type": "Lecture",
+        "section": "RMG",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "67900",
+        "type": "Lecture",
+        "section": "RMU",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "2406 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Woodley, M",
+      "Chowdhary, G",
+      "Chowdhary, G",
+      "Chowdhary, G",
+      "Lai, F",
+      "Lai, F",
+      "Lai, F",
+      "Cunningham, R",
+      "Cunningham, R",
+      "Cunningham, R",
+      "Yuan, W"
+    ],
+    "restrictions": [
+      "Restricted to CS and blended CS majors students.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science major(s).",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to O/C Engineering City Scholars students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Electrical & Computer Engr or Bioinformatics major(s).",
+      "Restricted to Graduate - UrbanaChampaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Undergrad - Urbana-Champaign."
+    ],
+    "prerequisites": "For majors only; junior or senior standing required"
+  },
+  {
+    "course_code": "CS 499",
+    "title": "Senior Thesis",
+    "credit_hours": 3,
+    "description": "Research and thesis development experience in computer science under guidance of a faculty member. Literature search, oral presentation, analysis and implementation, paper preparation, and completion of a written thesis. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours.",
+    "schedule": [],
+    "instructors": [],
+    "restrictions": [
+      "Restricted to Computer Science major(s).",
+      "Restricted to students with Senior class standing.",
+      "Restricted to Undergrad - UrbanaChampaign."
+    ],
+    "prerequisites": "Consent of instructor"
+  },
+  {
+    "course_code": "CS 507",
+    "title": "Topics in Cryptography",
+    "credit_hours": 4,
+    "description": "Modern cryptography helps realize a variety of tasks: from computations on and proofs about secret data, to verifiably offloading computation to untrusted clients, to making programs unintelligible while preserving functionality, to testing untrusted quantum devices. Covers a selection of such cutting-edge topics in cryptography. We will understand how any adversary that counters the security of modern protocols can be transformed into an adversary that contradicts basic mathematical assumptions. We will understand key ideas in recent cryptography research and identify new directions and problems for the future. May be repeated, up to 8 hours in a single term, to a total of 16 graduate hours, if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "80556",
+        "type": "LectureDiscussion",
+        "section": "SC",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "2200 - Sidney"
+      }
+    ],
+    "instructors": [
+      "Heath, D"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 508",
+    "title": "Manycore Parallel Algorithms",
+    "credit_hours": 4,
+    "description": "page 64 - Computer Science, Fall 2025 Same as ECE 508. See ECE 508.",
+    "schedule": [
+      {
+        "crn": "75612",
+        "type": "Lecture",
+        "section": "E",
+        "start_time": "10:00 AM",
+        "end_time": "11:20 AM",
+        "days": "TR",
+        "location": "2013 - Electrical"
+      }
+    ],
+    "instructors": [
+      "Lumetta, S"
+    ],
+    "restrictions": [
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 511",
+    "title": "Advanced Data Management",
+    "credit_hours": 4,
+    "description": "Advanced concepts in data management and information system design and implementation, and recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information integration, web search and mining, and other emerging directions in the field.",
+    "schedule": [
+      {
+        "crn": "50497",
+        "type": "LectureDiscussion",
+        "section": "DM",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1310 - Digital"
+      }
+    ],
+    "instructors": [
+      "Park, Y"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 411"
+  },
+  {
+    "course_code": "CS 512",
+    "title": "Data Mining Principles",
+    "credit_hours": 4,
+    "description": "An advanced course on principles and algorithms of data mining. Data cleaning and integration; descriptive and predictive mining; mining frequent, sequential, and structured patterns; clustering, outlier analysis and fraud detection; stream data, web, text, and biomedical data mining; security and privacy in data mining; research frontiers.",
+    "schedule": [
+      {
+        "crn": "77189",
+        "type": "LectureDiscussion",
+        "section": "DMP",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      }
+    ],
+    "instructors": [
+      "You, J"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 412"
+  },
+  {
+    "course_code": "CS 521",
+    "title": "Advanced Topics in Programming Systems",
+    "credit_hours": 4,
+    "description": "Advanced topics in building and verifying software systems, selected from areas of current research such as: model checking and automated verification, testing and automated test generation, program synthesis, runtime verification, machine learning and its applications in the design of verified systems, formal analysis of machine learning algorithms, principles of programming languages and type systems. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "77187",
+        "type": "LectureDiscussion",
+        "section": "FML",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "2233 - Everitt"
+      },
+      {
+        "crn": "79800",
+        "type": "LectureDiscussion",
+        "section": "LCC",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "R",
+        "location": "ARR - Illini"
+      },
+      {
+        "crn": "79799",
+        "type": "LectureDiscussion",
+        "section": "LCU",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "0220 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Singh, G",
+      "Mendis, C",
+      "Misailovic, S",
+      "Misailovic, S",
+      "Mendis, C",
+      "Misailovic, S"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to MCS Chicago Students.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 374 or ECE 374; CS 421"
+  },
+  {
+    "course_code": "CS 527",
+    "title": "Topics in Software Engineering",
+    "credit_hours": 4,
+    "description": "Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering. Case studies.",
+    "schedule": [
+      {
+        "crn": "35912",
+        "type": "LectureDiscussion",
+        "section": "S",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "TR",
+        "location": "0216 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Marinov, D"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 428, CSE 429 or CS 429"
+  },
+  {
+    "course_code": "CS 537",
+    "title": "Advanced Topics in Internet of Things (IoT)",
+    "credit_hours": 4,
+    "description": "Advanced topics in Internet of Things (IoT) algorithms, protocols, architectures, systems, and infrastructures, selected from areas of current research such as: IoT sensors representations and compression, streaming and caching of IoT data, IoT analytics and feature learning, IoT-edge-cloud computing infrastructures, resource optimization for multi-modal IoT systems, applications and human perception of IoT. Students will read and discuss recent research papers and conduct a semester-long research project. May be repeated, if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "75892",
+        "type": "LectureDiscussion",
+        "section": "K",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "1302 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Nahrstedt, K"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "One of CS 425 or ECE 428; one of CS 438 or ECE 438"
+  },
+  {
+    "course_code": "CS 538",
+    "title": "Advanced Computer Networks",
+    "credit_hours": 4,
+    "description": "Advanced concepts in computer networks, including congestion control, quality of service, naming, routing, wireless networks, Internet architecture, measurement, network security, and selected recent research directions.",
+    "schedule": [
+      {
+        "crn": "58321",
+        "type": "LectureDiscussion",
+        "section": "N",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "3101 - Sidney"
+      }
+    ],
+    "instructors": [
+      "Yan, F"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 438 or ECE 438"
+  },
+  {
+    "course_code": "CS 540",
+    "title": "Deep Learning Theory",
+    "credit_hours": 4,
+    "description": "A rigorous mathematical course covering foundational analyses of the approximation, optimization, and generalization properties of Deep Neural Networks. Topics include: constructive and non-constructive approximations with one hidden layer; benefits of depth; optimization in the NTK regime; maximum margin optimization outside the NTK regime; Rademacher complexity, VC dimensino, and covering number bounds for ReLU networks. Evaluation is primarily based on homeworks, with a smaller project component. The course goal is to prepare students perform their own research in the field.",
+    "schedule": [
+      {
+        "crn": "75414",
+        "type": "LectureDiscussion",
+        "section": "DLT",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "MW",
+        "location": "0216 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Zhang, T"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 542",
+    "title": "Statistical Reinforcement Learning",
+    "credit_hours": 4,
+    "description": "Theory of reinforcement learning, with a focus on sample complexity analyses. Specific topics include MDP basics, finite-sample analyses of online (i.e., exploration) and offline (i.e., batch) RL with a tabular representation, finite-sample analyses of online and offline RL with function approximation, state abstraction theory, off-policy evaluation (importance sampling), and policy gradient. The course goal is to provide a comprehensive understanding of the statistical properties of RL under various settings (e.g., online vs offline), preparing the students for doing research in the area.",
+    "schedule": [
+      {
+        "crn": "74766",
+        "type": "LectureDiscussion",
+        "section": "S",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Jiang, N"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 543",
+    "title": "Computer Vision",
+    "credit_hours": 4,
+    "description": "Same as ECE 549. See ECE 549.",
+    "schedule": [
+      {
+        "crn": "37132",
+        "type": "LectureDiscussion",
+        "section": "A",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "WF",
+        "location": "1404 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Forsyth, D"
+    ],
+    "restrictions": [
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MENG:Elec & Comp Eng ONL -UIUC."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 545",
+    "title": "Machine Learning for Signal Processing",
+    "credit_hours": 4,
+    "description": "Fundamentals of machine learning and signal processing as they pertain to the development of machines that can understand complex real-world signals, such as speech, images, movies, music, biological and mechanical readings, etc. Hands-on examples of how to decompose, analyze, classify, detect and consolidate signals, and examine various commonplace operations such as finding faces from camera feeds, organizing personal music collections, designing speech dialog systems and understanding movie content.",
+    "schedule": [
+      {
+        "crn": "75562",
+        "type": "Lecture",
+        "section": "MLS",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Kim, M"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "MATH 415; one of CS 361, STAT 361, MATH 461, MATH 463 or STAT 400"
+  },
+  {
+    "course_code": "CS 546",
+    "title": "Advanced Topics in Natural Language Processing",
+    "credit_hours": 4,
+    "description": "Advanced topics in natural language processing, ranging from general techniques such as deep learning for NLP to specific topics such as information extraction, knowledge acquisition, dialogue systems, language grounding, and natural language generation. Review of classic as well as state-of-the-art techniques and remaining challenges, and exploration of recent proposals for meeting these challenges. Intended for graduate students doing research in natural language processing. May be repeated in separate terms up to 16 hours, if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "74740",
+        "type": "LectureDiscussion",
+        "section": "ATN",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "48226",
+        "type": "LectureDiscussion",
+        "section": "A",
+        "start_time": "03:30 PM",
+        "end_time": "04:50 PM",
+        "days": "TR",
+        "location": "23 - Psychology"
+      }
+    ],
+    "instructors": [
+      "Hummel, J"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 447 and one of CS 446 or ECE 449, or equivalent background"
+  },
+  {
+    "course_code": "CS 562",
+    "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+    "credit_hours": 4,
+    "description": "Advanced topics in security and privacy problems in machine learning systems, selected from areas of current research such as: adversarial machine learning, differential privacy, game theory enabled defenses, robust learning methods, machine learning based cybercrime analysis, network intrusion detection, and malware analysis, and machine learning interpretation techniques. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department.",
+    "schedule": [
+      {
+        "crn": "75418",
+        "type": "LectureDiscussion",
+        "section": "SML",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "119 - Materials"
+      }
+    ],
+    "instructors": [
+      "Liao, X"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 567",
+    "title": "Social Signals and Social Media",
+    "credit_hours": 4,
+    "description": "Online social interactions occur in many arenas important to society and human well-being, but are mediated through algorithmic interventions that alter the users expectations in these social spaces. This class explores the presentation of self, the presentation of collectives, the presentation of news, and social dynamics in these online spaces--and how algorithmic intervention shapes them from the perspective of social signaling theory. Topics covered include: the evolution of algorithmic matchmaking (as in online resume/ interviews and dating sites), why people share misinformation, the mitigation of trolling, ethics, and bias in social media systems. Upon completion of this course, students will have an up-to-date understanding of the design social media interfaces with incentive structures from social signaling theory.",
+    "schedule": [
+      {
+        "crn": "75897",
+        "type": "LectureDiscussion",
+        "section": "K",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "1302 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Karahalios, K"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 465 or equivalent or permission of instructor"
+  },
+  {
+    "course_code": "CS 571",
+    "title": "Combinatorial Mathematics",
+    "credit_hours": 4,
+    "description": "Same as MATH 580. See MATH 580.",
+    "schedule": [
+      {
+        "crn": "33563",
+        "type": "LectureDiscussion",
+        "section": "D1",
+        "start_time": "12:00 PM",
+        "end_time": "12:50 PM",
+        "days": "MWF",
+        "location": "3018 - Campus"
+      }
+    ],
+    "instructors": [
+      "Methuku, A"
+    ],
+    "restrictions": [
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 574",
+    "title": "Randomized Algorithms",
+    "credit_hours": 4,
+    "description": "Basic and advanced concepts in the design and analysis of randomized algorithms. Sampling; concentration inequalities such as Chernoff-Hoeffding bounds; probabilistic method; random walks, dimension reduction; entropy; martingales and Azuma's inequality; derandomization. Randomized algorithms for sorting and searching; graphs; geometric problems. Basics of pseudorandomness and randomized complexity classes.",
+    "schedule": [
+      {
+        "crn": "65259",
+        "type": "LectureDiscussion",
+        "section": "R",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "WF",
+        "location": "0216 - Siebel"
+      },
+      {
+        "crn": "71847",
+        "type": "LectureDiscussion",
+        "section": "M",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "0220 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Chekuri, C",
+      "Ringer, T"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "One of CS 473, CSE 414, or MATH 473; one of MATH 461, MATH 463 or STAT 400"
+  },
+  {
+    "course_code": "CS 579",
+    "title": "Computational Complexity",
+    "credit_hours": 4,
+    "description": "Turing machines; determinism and non-determinism; time and space hierarchy theorems; speed-up and tape compression; Blum axioms; structure of complexity classes NP, P, NL, L, and PSPACE; complete problems; randomness and complexity classes RP, RL, and BPP; alternation, polynomial-time hierarchy; circuit complexity, parallel complexity, NC, and RNC; relativized computational complexity; time-space trade-offs. Same as ECE 579.",
+    "schedule": [
+      {
+        "crn": "51780",
+        "type": "LectureDiscussion",
+        "section": "F",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "TR",
+        "location": "1302 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Jeronimo, F"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "One of CS 473, CSE 414, MATH 473, CS 475 or MATH 475"
+  },
+  {
+    "course_code": "CS 580",
+    "title": "Topics in Algorithmic Game Theory",
+    "credit_hours": 4,
+    "description": "A theoretical CS course covering advances in algorithmic game theory. This includes study of strategic, computational, learning, dynamic, and fairness aspects of games and markets (organizations that involves rational and strategic agents). In particular, topics will include computation and complexity of equilibria, mechanism design, fair-division, dynamics in games and markets, price-of-anarchy etc.. These topics arise from applications such as online marketplaces (like Lyft, Uber, eBay, sponsored search, TaskRabbit), social networks, recommendation systems, kidney exchange, spectrum auction, etc., and thereby will prepare students for related research and/or industry jobs.",
+    "schedule": [
+      {
+        "crn": "75420",
+        "type": "Lecture",
+        "section": "AGT",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "1214 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Mehta, R"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 473"
+  },
+  {
+    "course_code": "CS 582",
+    "title": "Machine Learning for Bioinformatics",
+    "credit_hours": 4,
+    "description": "This graduate course on bioinformatics introduces a selection of topics in computational biology and bioinformatics, with special emphasis on current problems in regulatory genomics and systems biology. Computational approaches discussed will focus on Machine Learning techniques such as Bayesian inference, graphical models, supervised learning and network analysis. Bioinformatics topics will be introduced through lectures by instructor and research paper presentations by students, and include regulatory sequence analysis, cistromics, epigenomics, regulatory network reconstruction, non-coding variant interpretation, and protein structure and function prediction. A research project involving real data analysis with techniques related to course content is mandatory and will help prepare students for bioinformatics research.",
+    "schedule": [
+      {
+        "crn": "75421",
+        "type": "LectureDiscussion",
+        "section": "B",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "WF",
+        "location": "1302 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Liu, G"
+    ],
+    "restrictions": [
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": ""
+  },
+  {
+    "course_code": "CS 584",
+    "title": "Embedded System Verification",
+    "credit_hours": 4,
+    "description": "Same as ECE 584. See ECE 584.",
+    "schedule": [
+      {
+        "crn": "60031",
+        "type": "Lecture",
+        "section": "B",
+        "start_time": "12:30 PM",
+        "end_time": "01:50 PM",
+        "days": "TR",
+        "location": "3013 - Electrical"
+      },
+      {
+        "crn": "35941",
+        "type": "LectureDiscussion",
+        "section": "ACT",
+        "start_time": "04:30 PM",
+        "end_time": "05:30 PM",
+        "days": "M",
+        "location": "ARR - Siebel"
+      },
+      {
+        "crn": "35969",
+        "type": "LectureDiscussion",
+        "section": "BAI",
+        "start_time": "03:30 PM",
+        "end_time": "04:20 PM",
+        "days": "F",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "35945",
+        "type": "LectureDiscussion",
+        "section": "CAP",
+        "start_time": "04:00 PM",
+        "end_time": "05:00 PM",
+        "days": "T",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "35958",
+        "type": "LectureDiscussion",
+        "section": "CS",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "MW",
+        "location": "ARR - Siebel"
+      },
+      {
+        "crn": "46417",
+        "type": "LectureDiscussion",
+        "section": "FMG",
+        "start_time": "02:00 PM",
+        "end_time": "03:30 PM",
+        "days": "F",
+        "location": "0222 - Siebel"
+      },
+      {
+        "crn": "41194",
+        "type": "LectureDiscussion",
+        "section": "IC",
+        "start_time": "03:30 PM",
+        "end_time": "05:00 PM",
+        "days": "W",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "43828",
+        "type": "LectureDiscussion",
+        "section": "IG",
+        "start_time": "05:00 PM",
+        "end_time": "05:50 PM",
+        "days": "R",
+        "location": "1304 - Siebel"
+      },
+      {
+        "crn": "58740",
+        "type": "LectureDiscussion",
+        "section": "LRS",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "143 - Loomis"
+      },
+      {
+        "crn": "35942",
+        "type": "LectureDiscussion",
+        "section": "MCS",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "MW",
+        "location": "- Amato, N"
+      },
+      {
+        "crn": "48709",
+        "type": "LectureDiscussion",
+        "section": "MLR",
+        "start_time": "02:00 PM",
+        "end_time": "03:30 PM",
+        "days": "F",
+        "location": "- Banerjee, A"
+      },
+      {
+        "crn": "41977",
+        "type": "Lecture",
+        "section": "PHD",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "M",
+        "location": "1404 - Siebel"
+      },
+      {
+        "crn": "35961",
+        "type": "LectureDiscussion",
+        "section": "SCH",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "F",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "46060",
+        "type": "LectureDiscussion",
+        "section": "SN",
+        "start_time": "04:00 PM",
+        "end_time": "04:50 PM",
+        "days": "F",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "41195",
+        "type": "LectureDiscussion",
+        "section": "SP",
+        "start_time": "11:00 AM",
+        "end_time": "12:00 PM",
+        "days": "R",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "35986",
+        "type": "LectureDiscussion",
+        "section": "TA",
+        "start_time": "11:00 AM",
+        "end_time": "11:50 AM",
+        "days": "F",
+        "location": "1002 - Electrical"
+      },
+      {
+        "crn": "46989",
+        "type": "LectureDiscussion",
+        "section": "AIE",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "1302 - Siebel"
+      },
+      {
+        "crn": "62086",
+        "type": "LectureDiscussion",
+        "section": "CER",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1302 - Siebel"
+      },
+      {
+        "crn": "62836",
+        "type": "LectureDiscussion",
+        "section": "CVH",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "49197",
+        "type": "LectureDiscussion",
+        "section": "CWB",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1035 - Campus"
+      },
+      {
+        "crn": "52546",
+        "type": "LectureDiscussion",
+        "section": "DAG",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "TR",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "64615",
+        "type": "LectureDiscussion",
+        "section": "EKS",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "TR",
+        "location": "2406 - Siebel"
+      },
+      {
+        "crn": "50499",
+        "type": "LectureDiscussion",
+        "section": "ESS",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "WF",
+        "location": "1302 - Siebel"
+      },
+      {
+        "crn": "64087",
+        "type": "LectureDiscussion",
+        "section": "FDS",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1302 - Siebel"
+      },
+      {
+        "crn": "35990",
+        "type": "LectureDiscussion",
+        "section": "GMA",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "1214 - Siebel"
+      },
+      {
+        "crn": "36011",
+        "type": "LectureDiscussion",
+        "section": "JBR",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "70878",
+        "type": "LectureDiscussion",
+        "section": "JH",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "1035 - Campus"
+      },
+      {
+        "crn": "72124",
+        "type": "LectureDiscussion",
+        "section": "KKH",
+        "start_time": "09:30 AM",
+        "end_time": "10:45 AM",
+        "days": "MW",
+        "location": "2039 - Campus"
+      },
+      {
+        "crn": "49828",
+        "type": "LectureDiscussion",
+        "section": "MPL",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "TR",
+        "location": "1043 - Sidney"
+      },
+      {
+        "crn": "69391",
+        "type": "LectureDiscussion",
+        "section": "OM",
+        "start_time": "03:30 PM",
+        "end_time": "04:45 PM",
+        "days": "TR",
+        "location": "1035 - Campus"
+      },
+      {
+        "crn": "49224",
+        "type": "Lecture",
+        "section": "RAP",
+        "start_time": "12:30 PM",
+        "end_time": "01:45 PM",
+        "days": "WF",
+        "location": "1310 - Digital"
+      },
+      {
+        "crn": "70203",
+        "type": "LectureDiscussion",
+        "section": "SDM",
+        "start_time": "11:00 AM",
+        "end_time": "12:15 PM",
+        "days": "TR",
+        "location": "1043 - Sidney"
+      },
+      {
+        "crn": "40106",
+        "type": "LectureDiscussion",
+        "section": "SFS",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "0220 - Siebel"
+      },
+      {
+        "crn": "57783",
+        "type": "LectureDiscussion",
+        "section": "SHW",
+        "start_time": "02:00 PM",
+        "end_time": "03:15 PM",
+        "days": "TR",
+        "location": "0216 - Siebel"
+      }
+    ],
+    "instructors": [
+      "Mitra, S",
+      "Adve, V",
+      "Gillette, R",
+      "Zhai, C",
+      "Ghose, S",
+      "Amato, N",
+      "Rauchwerger, L",
+      "Wright, A",
+      "Parthasarathy,\nM",
+      "Cobb, C",
+      "Karahalios, K",
+      "Sterman, S",
+      "Gupta, I",
+      "Sha, L",
+      "Rauchwerger, L",
+      "Kloeckner, A",
+      "Olson, L",
+      "Zhao, H",
+      "Amato, N",
+      "Lazebnik, S",
+      "Lazebnik, S",
+      "Behrouz, R",
+      "Misailovic, S",
+      "Zhang, L",
+      "Alagappan, R",
+      "Ganesan, A",
+      "Gupta, I",
+      "Xu, T",
+      "Bates, A",
+      "Zhang, Y",
+      "Beckman, M",
+      "Chen, Y",
+      "Johnson, B",
+      "Cunningham, K",
+      "Rehg, J",
+      "Saha, K",
+      "Reid, J",
+      "Soltanaghai, E",
+      "Moses, W",
+      "Zhao, H",
+      "Kim, M",
+      "Behrouz, R",
+      "Behrouz, R",
+      "Behrouz, R",
+      "Han, J",
+      "Hauser, K",
+      "Cobb, C",
+      "Sterman, S",
+      "Chandrasekharan,\nE",
+      "Alagappan, R",
+      "Banerjee, A",
+      "Sultana, S",
+      "Wang, S"
+    ],
+    "restrictions": [
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to MCS: Computer Sci OFF - UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to MCS:Computer Sci Online -UIUC.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign.",
+      "Restricted to Computer Science or Bioinformatics major(s).",
+      "Restricted to Graduate - Urbana-Champaign."
+    ],
+    "prerequisites": "CS 426"
+  }
+]

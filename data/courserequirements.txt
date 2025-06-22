@@ -1,0 +1,534 @@
+Computer Science, BS            1
+COMPUTER SCIENCE, BS
+for the degree of Bachelor of Science in Computer Science
+The Computer Science curriculum provides both a broad and deep 
+knowledge of the theory, design, and application of computer systems, 
+with an emphasis on software systems. Because computing is 
+ubiquitous, application areas involve virtually any ﬁeld imaginable - from 
+developing gene sequencing algorithms via techniques in computational 
+biology, to designing user interfaces for mobile applications; from 
+designing methods for high frequency trading, to creating computer 
+generated graphics and special effects in the gaming industry; and 
+from creating embedded real time systems to be deployed in medical 
+devices, to analyzing social data from internet communication patterns. 
+During the ﬁrst two years the curriculum provides a strong foundation in 
+mathematics, science, and computation. Advanced coursework both in 
+more technical core areas and in areas of the student's choosing follows 
+in the second two years. Graduates regularly go on to graduate study or 
+leading positions in industry.
+Both a combined B.S.-M.S. degree program and a B.S-M.C.S. degree 
+program are available. The admission and course requirements are 
+described on the Siebel School of Computing and Data Science website
+(https://siebelschool.illinois.edu/).
+Current Program Educational Objectives (https://cs.illinois.edu/about/
+accreditation/)
+for the degree of Bachelor of Science in Computer Science
+Graduation Requirements
+Minimum hours required for graduation: 128 hours.
+M (https://go.grainger.illinois.edu/TechnicalGPA/)inimum Technical GPA
+(https://go.grainger.illinois.edu/TechnicalGPA/): 2.0
+TGPA is required for CS and Math courses. See Technical GPA (https://
+go.grainger.illinois.edu/TechnicalGPA/) to clarify requirements.
+University Requirements
+Minimum of 40 hours of upper-division coursework, generally at the 300- 
+or 400-level. These hours can be drawn from all elements of the degree. 
+  Students should consult their academic advisor for additional guidance 
+in fulﬁlling this requirement.
+The university and residency requirements can be found in the Student 
+Code (https://studentcode.illinois.edu/article3/part8/3-801/) (§ 3-801)
+and in the Academic Catalog (http://catalog.illinois.edu/general-
+information/degree-general-education-requirements/).
+General Education Requirements
+Follows the campus General Education (Gen Ed) requirements (https://
+courses.illinois.edu/gened/DEFAULT/DEFAULT/). Some Gen Ed 
+requirements may be met by courses required and/or electives in the 
+program.
+Code Title Hours
+Composition I 4-6
+Advanced Composition 3
+Humanities & the Arts (6 hours) 6
+Natural Sciences & Technology (6 hours) 6
+fulﬁlled by PHYS 211 and PHYS 212
+Social & Behavioral Sciences (6 hours) 6
+Cultural Studies: Non-Western Cultures (1 course) 3
+Cultural Studies: US Minority Cultures (1 course) 3
+Cultural Studies: Western/Comparative Cultures (1 course) 3
+Quantitative Reasoning (2 courses, at least one course must be 
+Quantitative Reasoning I)
+6-10
+fulﬁlled by MATH 220 or MATH 221; and MATH 231, 
+MATH 241, PHYS 211, PHYS 212, CS 124, CS 128, CS 225
+Language Requirement (Completion of the third semester or 
+equivalent of a language other than English is required)
+0-15
+Orientation and Professional Development
+Code Title Hours
+ENG 100 Grainger Engineering Orientation Seminar 
+(External transfer students take ENG 300.)
+1
+Highly recommended, optional 1 credit hour course, CS 100 
+Computer Science Orientation. Credit hour counts toward free 
+electives.
+CS 210 Ethical & Professional Issues 2 or 3
+or CS 211 Ethical and Professional Conduct
+Total Hours 3-4
+Foundational Mathematics and Science
+Code Title Hours
+MATH 221 Calculus I (MATH 220 may be substituted. 
+MATH 220 is appropriate for students with 
+no background in calculus. 4 of 5 credit 
+hours count towards degree.)
+4
+MATH 231 Calculus II 3
+MATH 241 Calculus III 4
+MATH 257 Linear Algebra with Computational 
+Applications
+3
+or MATH 415 Applied Linear Algebra
+or MATH 416 Abstract Linear Algebra
+PHYS 211 University Physics: Mechanics 4
+PHYS 212 University Physics: Elec & Mag 4
+One Science elective course: 3
+Students must take one course from the Natural Science & 
+Technology (NST) list, in addition to those taken as part of the 
+General Education requirements. The course must be a course 
+that is allowed for credit by the Grainger College of Engineering.
+Exceptions to the list are: ASTR 100, PHYS 101 and PHYS 102, 
+and CHEM 101.
+Information listed in this catalog is current as of 05/2025
+2         Computer Science, BS
+Students who select either ASTR 121, ASTR 122, or ASTR 150 
+to satisfy the Science Elective requirement will not receive 
+credit for any other 100-level ASTR course as a free elective 
+(maximum of 4 credit hours of ASTR 100-level can count towards 
+graduation requirements for all Grainger College of Engineering 
+Undergraduates).
+Total Hours 25
+Computer Science Technical Core
+Code Title Hours
+CS 124 Introduction to Computer Science I 3
+CS 128 Introduction to Computer Science II 3
+CS 173 Discrete Structures 3
+CS 222 Software Design Lab 1
+CS 225 Data Structures 4
+CS 233 Computer Architecture 4
+CS 341 System Programming 4
+CS 357 Numerical Methods I 3
+CS 361 Probability & Statistics for Computer 
+Science
+3
+CS 374 Introduction to Algorithms & Models of 
+Computation
+4
+CS 421 Programming Languages & Compilers 3
+Total Hours 35
+Technical Electives
+Code Title Hours
+Students must take a minimum of (6) six additional technical 
+electives with at least eighteen (18) cumulative credit hours 
+and chosen from CS 397 and the CS 400-level courses, not 
+including CS 400, CS 401, CS 402, CS 403 or CS 491. CS 500-
+level courses may be used as technical electives, but only with 
+special permission from the CS Academic Ofﬁce. CS 397 and 
+CS 499 may be used with a cumulative maximum of six (6) 
+credits from them counting as technical electives. One "CS-like" 
+course in another department (e.g., ECE) may also be counted as 
+a CS 400-level course with permission of the CS Academic Ofﬁce. 
+Non-CS tech electives will not be considered in focus areas.
+18
+At least one (1) of the CS courses used for technical electives 
+must be chosen from the list below of CS courses satisfying the 
+team project requirement.
+Team Project Course List:
+CS 417 Virtual Reality 3
+CS 427 Software Engineering I 3 or 4
+CS 428 Software Engineering II 3 or 4
+CS 429 Software Engineering II, ACP 3
+CS 437 Topics in Internet of Things 3
+CS 465 User Interface Design 4
+CS 467 Social Visualization 3 or 4
+CS 493 Senior Project II, ACP 3
+CS 494 Senior Project II 3
+CS 497 CS Team Project 1 to 3
+At least three (3) of the CS courses used for technical electives 
+must be chosen from a single focus area, from among the list of 
+focus areas listed below. The team project course may be used as 
+one of them.
+CS 498 Special Topics and CS 598 Special Topics classes may be 
+included in a focus area by department approval.
+Software Foundations:
+CS 407 Cryptography 3 or 4
+CS 409 The Art of Web Programming 3
+CS 422 Programming Language Design 3 or 4
+CS 426 Compiler Construction 3 or 4
+CS 427 Software Engineering I 3 or 4
+CS 428 Software Engineering II 3 or 4
+CS 429 Software Engineering II, ACP 3
+CS 474 Logic in Computer Science 3 or 4
+CS 476 Program Veriﬁcation 3 or 4
+CS 477 Formal Software Development Methods 3 or 4
+CS 492 Senior Project I 3
+CS 493 Senior Project II, ACP 3
+CS 494 Senior Project II 3
+CS 521 Advanced Topics in Programming Systems 4
+CS 522 Programming Language Semantics 4
+CS 524 Concurrent Progrmg Languages 4
+CS 526 Advanced Compiler Construction 4
+CS 527 Topics in Software Engineering 4
+CS 576 Topics in Automated Deduction 2 to 4
+Algorithms and Models of Computation:
+CS 407 Cryptography 3 or 4
+CS 413 Intro to Combinatorics 3 or 4
+CS 473 Algorithms 4
+CS 474 Logic in Computer Science 3 or 4
+CS 475 Formal Models of Computation 3 or 4
+CS 476 Program Veriﬁcation 3 or 4
+CS 477 Formal Software Development Methods 3 or 4
+CS 481 Advanced Topics in Stochastic Processes 
+& Applications
+3 or 4
+CS 482 Simulation 3 or 4
+CS 571 Combinatorial Mathematics 4
+CS 572 Extremal Graph Theory 4
+CS 574 Randomized Algorithms 4
+CS 575 Methods of Combinatorics 4
+CS 576 Topics in Automated Deduction 2 to 4
+CS 579 Computational Complexity 4
+CS 580 Topics in Algorithmic Game Theory 4
+CS 581 Algorithmic Genomic Biology 4
+CS 583 Approximation Algorithms 4
+CS 584 Embedded System Veriﬁcation 4
+CS 586 Combinatorial Optimization 4
+Intelligence and Big Data:
+CS 410 Text Information Systems 3 or 4
+CS 411 Database Systems 3 or 4
+CS 412 Introduction to Data Mining 3 or 4
+CS 414 Multimedia Systems 3 or 4
+Information listed in this catalog is current as of 05/2025
+Computer Science, BS            3
+CS 416 Data Visualization 3 or 4
+CS 440 Artiﬁcial Intelligence 3 or 4
+CS 441 Applied Machine Learning 3 or 4
+CS 442 Trustworthy Machine Learning 3 or 4
+CS 444 Deep Learning for Computer Vision 3 or 4
+CS 445 Computational Photography 3 or 4
+CS 446 Machine Learning 3 or 4
+CS 447 Natural Language Processing 3 or 4
+CS 448 Audio Computing Laboratory 3 or 4
+CS 464 Topics in Societal and Ethical Impacts of 
+Computer Technology
+3
+CS 466 Introduction to Bioinformatics 3 or 4
+CS 467 Social Visualization 3 or 4
+CS 469 Computational Advertising Infrastructure 3
+CS 470 Social and Information Networks 3
+CS 510 Advanced Information Retrieval 4
+CS 511 Advanced Data Management 4
+CS 512 Data Mining Principles 4
+CS 514 Advanced Topics in Network Science 4
+CS 540 Deep Learning Theory 4
+CS 542 Statistical Reinforcement Learning 4
+CS 543 Computer Vision 4
+CS 544 Optimiz in Computer Vision 4
+CS 545 Machine Learning for Signal Processing 4
+CS 546 Advanced Topics in Natural Language 
+Processing
+4
+CS 562 Advanced Topics in Security, Privacy, and 
+Machine Learning
+4
+CS 567 Social Signals and Social Media 4
+CS 576 Topics in Automated Deduction 2 to 4
+CS 582 Machine Learning for Bioinformatics 4
+Human and Social Impact:
+CS 409 The Art of Web Programming 3 or 4
+CS 416 Data Visualization 3 or 4
+CS 417 Virtual Reality 3 or 4
+CS 441 Applied Machine Learning 3 or 4
+CS 442 Trustworthy Machine Learning 3 or 4
+CS 460 Security Laboratory 3 or 4
+CS 461 Computer Security I 4
+CS 463 Computer Security II 3 or 4
+CS 464 Topics in Societal and Ethical Impacts of 
+Computer Technology
+3
+CS 465 User Interface Design 4
+CS 467 Social Visualization 3 or 4
+CS 468 Tech and Advertising Campaigns 3
+CS 469 Computational Advertising Infrastructure 3
+CS 470 Social and Information Networks 3
+CS 500 Current Topics in Computing Education 
+Research
+4
+CS 514 Advanced Topics in Network Science 4
+CS 562 Advanced Topics in Security, Privacy, and 
+Machine Learning
+4
+CS 563 Advanced Computer Security 4
+CS 565 Human-Computer Interaction 4
+CS 567 Social Signals and Social Media 4
+Media:
+CS 409 The Art of Web Programming 3 or 4
+CS 414 Multimedia Systems 3 or 4
+CS 416 Data Visualization 3 or 4
+CS 417 Virtual Reality 3 or 4
+CS 418 Interactive Computer Graphics 3 or 4
+CS 419 Production Computer Graphics 3 or 4
+CS 445 Computational Photography 3 or 4
+CS 448 Audio Computing Laboratory 3 or 4
+CS 465 User Interface Design 4
+CS 467 Social Visualization 3 or 4
+CS 468 Tech and Advertising Campaigns 3
+CS 469 Computational Advertising Infrastructure 3 or 4
+CS 519 Scientiﬁc Visualization 4
+CS 545 Machine Learning for Signal Processing 4
+CS 565 Human-Computer Interaction 4
+CS 567 Social Signals and Social Media 4
+Scientiﬁc, Parallel, and High Perfomance Computing:
+CS 419 Production Computer Graphics 3 or 4
+CS 435 Cloud Networking 3 or 4
+CS 450 Numerical Analysis 3 or 4
+CS 466 Introduction to Bioinformatics 3 or 4
+CS 482 Simulation 3 or 4
+CS 483 Applied Parallel Programming 4
+CS 484 Parallel Programming 3 or 4
+CS 519 Scientiﬁc Visualization 4
+CS 554 Parallel Numerical Algorithms 4
+CS 555 Numerical Methods for PDEs 4
+CS 556 Iterative & Multigrid Methods 4
+CS 558 Topics in Numerical Analysis 4
+Distributed Systems, Networking, and Security:
+CS 407 Cryptography 3 or 4
+CS 423 Operating Systems Design 3 or 4
+CS 424 Real-Time Systems 3 or 4
+CS 425 Distributed Systems 3 or 4
+CS 431 Embedded Systems 3 or 4
+CS 435 Cloud Networking 3 or 4
+CS 436 Computer Networking Laboratory 3 or 4
+CS 437 Topics in Internet of Things 3 or 4
+CS 438 Communication Networks 3 or 4
+CS 439 Wireless Networks 3 or 4
+CS 460 Security Laboratory 3 or 4
+CS 461 Computer Security I 4
+CS 463 Computer Security II 3 or 4
+CS 483 Applied Parallel Programming 4
+CS 484 Parallel Programming 3 or 4
+CS 523 Advanced Operating Systems 4
+CS 524 Concurrent Progrmg Languages 4
+CS 525 Advanced Distributed Systems 4
+CS 537 Advanced Topics in Internet of Things (IoT) 4
+Information listed in this catalog is current as of 05/2025
+4         Computer Science, BS
+CS 538 Advanced Computer Networks 4
+CS 562 Advanced Topics in Security, Privacy, and 
+Machine Learning
+4
+CS 563 Advanced Computer Security 4
+Machines:
+CS 423 Operating Systems Design 3 or 4
+CS 424 Real-Time Systems 3 or 4
+CS 426 Compiler Construction 3 or 4
+CS 431 Embedded Systems 3 or 4
+CS 433 Computer System Organization 3 or 4
+CS 437 Topics in Internet of Things 3 or 4
+CS 484 Parallel Programming 3 or 4
+CS 523 Advanced Operating Systems 4
+CS 526 Advanced Compiler Construction 4
+CS 533 Parallel Computer Architecture 4
+CS 534 Advanced Topics in Computer Architecture 4
+CS 536 Fault-Tolerant Dig Syst Design 4
+CS 541 Computer Systems Analysis 4
+CS 584 Embedded System Veriﬁcation 4
+CS 588 Autonomous Vehicle System Engineering 4
+Computer Science Advanced Electives
+Code Title Hours
+Students must take for a letter grade a minimum of two (2) 
+advanced elective courses comprising at least six (6) credit 
+hours. These advanced elective courses must be distinct from 
+courses used to satisfy the technical electives. They may 
+be chosen from CS 397 Individual Study and the 400-level 
+coursework offered for letter grade in ANY area offered at the 
+University of Illinois at Urbana-Champaign. It is expected that 
+students will select these additional advanced courses in a way 
+that best augments their program of study. Consultation with a 
+faculty mentors is highly encouraged. A maximum of six (6) credit 
+hours of CS 397 may be used in the combination of technical 
+electives and advanced electives.
+6
+Total Hours 6
+Free Electives
+Code Title Hours
+Additional course work,subject to the Grainger College of 
+Engineering restrictions to Free Electives,so that there are 
+at least 128 credit hours earned toward the degree. (https://
+go.grainger.illinois.edu/FreeElectives/)
+24-25
+Total Hours of Curriculum to Graduate 128
+for the degree of Bachelor of Science in Computer Science
+Sample Sequence
+This sample sequence is intended to be used only as a guide for degree 
+completion. All students should work individually with their academic 
+advisors to decide the actual course selection and sequence that works 
+best for them based on their academic preparation and goals. Enrichment 
+programming such as study abroad, minors, internships, and so on may 
+impact the structure of this four-year plan. Course availability is not 
+guaranteed during the semester indicated in the sample sequence. The 
+curriculum sequence can also be viewed via dynamic and static curricular 
+maps (https://grainger.illinois.edu/academics/undergraduate/majors-
+and-minors/cs-map/), which include prerequisite sequencing.
+Students must fulﬁll their Language Other Than English requirement by 
+successfully completing a third level of a language other than English. 
+See the corresponding section on the Degree and General Education 
+Requirements (http://catalog.illinois.edu/general-information/degree-
+general-education-requirements/). If the option of CS 211 is chosen, it 
+will satisfy a core course requirement and the Campus General Education 
+Advanced Composition requirement.
+Free Electives: Additional course work, subject to the Grainger College of 
+Engineering restrictions to Free Electives (https://go.grainger.illinois.edu/
+FreeElectives/), so that there are at least 128 credit hours earned toward the 
+degree.
+First Year
+First Semester Hours Second Semester Hours
+CS 100 (Optional 
+course, highly 
+recommended, 
+free elective)
+1 CS 128 3
+CS 124 3 CS 173 3
+MATH 221 
+(MATH 220 may 
+be substituted)
+4 MATH 231 3
+ENG 100 1 General 
+Education 
+course (Choose 
+a Humanities or 
+Social/Behavioral 
+Science 
+course with 
+Cultural Studies 
+designation)
+3
+Science elective 
+course
+3 General 
+Education 
+(Choose a 
+Humanities or 
+Social/Behavioral 
+Science course) 
+or Composition I 
+course
+3-4
+Composition 
+I or General 
+Education 
+(Choose a 
+Humanities or 
+Social/Behavioral 
+Science course)
+4-3  
+  16   15
+Second Year
+First Semester Hours Second Semester Hours
+CS 222 1 CS 233 4
+CS 225 4 CS 361 3
+MATH 241 4 MATH 257 3
+PHYS 211 4 PHYS 212 4
+Information listed in this catalog is current as of 05/2025
+Computer Science, BS            5
+General 
+Education 
+course (choose 
+a Humanities or 
+Social/Behavioral 
+Science 
+course with 
+Cultural Studies 
+designation)
+3 Free elective 
+course
+3
+  16   17
+Third Year
+First Semester Hours Second Semester Hours
+CS 210 (CS 
+211 may be 
+substituted)
+2 CS 374 4
+CS 341 4 CS Technical 
+elective course
+3
+CS 357 3 CS Technical 
+elective course
+3
+CS Technical 
+elective course
+3 General 
+Education 
+course (choose 
+a Humanities or 
+Social/Behavioral 
+Science 
+course with 
+Cultural Studies 
+designation)
+3
+Language Other 
+Than English (3rd 
+level) course
+4 Free elective 
+course
+3
+  16   16
+Fourth Year
+First Semester Hours Second Semester Hours
+CS 421 3 CS Technical 
+elective course
+3
+CS Advanced 
+elective course
+3 CS Technical 
+elective course
+3
+CS Advanced 
+elective course
+3 CS Technical 
+elective course
+3
+Free elective 
+course
+3 Free elective 
+course
+4
+Free elective 
+course
+4 Free elective 
+course
+3
+  16   16
+Total Hours 128
+for the degree of Bachelor of Science Major in Computer Science
+By the time of graduation, students will have the ability to:
+1. Analyze a complex computing problem and apply principles of 
+computing and other relevant disciplines to identify solutions. 
+2. Design, implement, and evaluate a computing-based solution to meet 
+a given set of computing requirements in the context of the program’s 
+discipline. 
+3. Communicate effectively in a variety of professional contexts. 
+4. Recognize professional responsibilities and make informed 
+judgments in computing practice based on legal and ethical 
+principles. 
+5. Function effectively as a member or leader of a team engaged in 
+activities appropriate to the program’s discipline. 
+6. Apply computer science theory and software development 
+fundamentals to produce computing-based solutions. 
+for the degree of Bachelor of Science in Computer Science
+Siebel School of Computing and Data Science (https://
+siebelschool.illinois.edu/) 
+Siebel School of Computing and Data Science Faculty (https://
+siebelschool.illinois.edu/about/people/all-faculty/)
+The Grainger College of Engineering Admissions (https://
+grainger.illinois.edu/) 
+The Grainger College of Engineering
+Information listed in this catalog is current as of 05/2025

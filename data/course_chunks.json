@@ -1,0 +1,3146 @@
+[
+  {
+    "text": ".",
+    "metadata": {
+      "course_code": "",
+      "title": "",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "CS 100 Computer Science Orientation. Introduction to Computer Science as a field and career for incoming first year and external transfer students in",
+    "metadata": {
+      "course_code": "CS 100",
+      "title": "Computer Science Orientation",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "external transfer students in the computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+    "metadata": {
+      "course_code": "CS 100",
+      "title": "Computer Science Orientation",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "and methods of solution. Restrictions: Restricted to First Time Freshman students. Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 100",
+      "title": "Computer Science Orientation",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "CS 101 Intro Computing: Engrg & Sci. Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical",
+    "metadata": {
+      "course_code": "CS 101",
+      "title": "Intro Computing: Engrg & Sci",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures;",
+    "metadata": {
+      "course_code": "CS 101",
+      "title": "Intro Computing: Engrg & Sci",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors. Restrictions:",
+    "metadata": {
+      "course_code": "CS 101",
+      "title": "Intro Computing: Engrg & Sci",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "science majors. Restrictions: Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 101",
+      "title": "Intro Computing: Engrg & Sci",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 105 Intro Computing: Non-Tech. Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer",
+    "metadata": {
+      "course_code": "CS 105",
+      "title": "Intro Computing: Non-Tech",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and",
+    "metadata": {
+      "course_code": "CS 105",
+      "title": "Intro Computing: Non-Tech",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended",
+    "metadata": {
+      "course_code": "CS 105",
+      "title": "Intro Computing: Non-Tech",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "application areas. Intended for non-science and non-engineering majors. Prerequisites: MATH 112. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 105",
+      "title": "Intro Computing: Non-Tech",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 105",
+      "title": "Intro Computing: Non-Tech",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "CS 107 Data Science Discovery. Same as IS 107 and STAT 107. See STAT 107. This course satisfies the General Education Criteria for a: Quantitative",
+    "metadata": {
+      "course_code": "CS 107",
+      "title": "Data Science Discovery",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Criteria for a: Quantitative Reasoning I Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to First Time Freshman students.",
+    "metadata": {
+      "course_code": "CS 107",
+      "title": "Data Science Discovery",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "First Time Freshman students. Restricted to Undergrad - Urbana-Champaign. Restricted to First Time Freshman students. Restricted to First Time",
+    "metadata": {
+      "course_code": "CS 107",
+      "title": "Data Science Discovery",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Restricted to First Time Freshman students. Restricted to First Time Freshman students..",
+    "metadata": {
+      "course_code": "CS 107",
+      "title": "Data Science Discovery",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 124 Introduction to Computer Science I. Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a",
+    "metadata": {
+      "course_code": "CS 124",
+      "title": "Introduction to Computer Science I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "problems. Intended as a first course for computer science majors and others with a deep interest in computing. Credit is not given for both CS 124",
+    "metadata": {
+      "course_code": "CS 124",
+      "title": "Introduction to Computer Science I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "is not given for both CS 124 and CS 125. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 124",
+      "title": "Introduction to Computer Science I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "CS 128 Introduction to Computer Science II. Continuation of CS 124. More advanced concepts in computing and techniques and approaches for solving",
+    "metadata": {
+      "course_code": "CS 128",
+      "title": "Introduction to Computer Science II",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "and approaches for solving computational problems. Prerequisites: CS 124 or CS 125. Restrictions: Restricted to CS and blended CS majors students.",
+    "metadata": {
+      "course_code": "CS 128",
+      "title": "Introduction to Computer Science II",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "blended CS majors students. Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 128",
+      "title": "Introduction to Computer Science II",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "CS 173 Discrete Structures. [IAI Code: CS915] Discrete mathematical structures frequently encountered in the study of Computer Science. Sets,",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. Credit is not given toward",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Credit is not given toward graduation for: Credit is not given for both CS 173 and MATH 213. Prerequisites: One of CS 124, CS 125, ECE 220; one of",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "124, CS 125, ECE 220; one of MATH 220, MATH 221. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS majors",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to CS and",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Urbana-Champaign. Restricted to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to James Scholars Program students. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to CS 124 Course Assistants. Restricted to Undergrad - Urbana-Champaign. Restricted to students concurrently registered in CS 124.",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "registered in CS 124. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to CS 124 Honors staff. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 173",
+      "title": "Discrete Structures",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "CS 210 Ethical & Professional Issues. Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of",
+    "metadata": {
+      "course_code": "CS 210",
+      "title": "Ethical & Professional Issues",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "property, freedom of information, and privacy. Credit is not given for both CS 210 and either CS 211 or ECE 316. Prerequisites: CS 225. Restrictions:",
+    "metadata": {
+      "course_code": "CS 210",
+      "title": "Ethical & Professional Issues",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "CS 225. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 210",
+      "title": "Ethical & Professional Issues",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science major(s). Restricted to students with Junior or Senior class standing..",
+    "metadata": {
+      "course_code": "CS 210",
+      "title": "Ethical & Professional Issues",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 211 Ethical and Professional Conduct. Navigating the complex ethical and professional landscape of the computing professional: privacy,",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "professional: privacy, intellectual property, cybersecurity, and freedom of speech. Hands-on exercises, assignments, and discussions in which",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "and discussions in which students analyze current events from perspectives in both philosophical and professional ethics. Writing professionally and",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Writing professionally and technically in several writing assignments requiring peer review, workshops, and multiple rounds of editing and revising.",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "of editing and revising. Credit is not given for both CS 211 and CS 210 or ECE 316. Prerequisites: CS 225. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Computer Science major(s). Restricted to students with Junior or Senior class standing..",
+    "metadata": {
+      "course_code": "CS 211",
+      "title": "Ethical and Professional Conduct",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "CS 222 Software Design Lab. Design and implementation of novel software solutions. Problem identification and definition; idea generation and",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "idea generation and evaluation; and software implementation, testing, and deployment. Emphasizes software development best practices\u2014including",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "best practices\u2014including framework selection, code review, documentation, appropriate library usage, project management, continuous integration and",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "continuous integration and testing, and teamwork. Prerequisites: CS 128; credit or concurrent registration in CS 225. Restrictions: Restricted to",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS majors students..",
+    "metadata": {
+      "course_code": "CS 222",
+      "title": "Software Design Lab",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 225 Data Structures. Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "such as search on graphs and trees. Elementary analysis of algorithms. Credit is not given toward graduation for: CS 277 if credit for CS 225 has",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "277 if credit for CS 225 has been earned. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to James Scholars Program students.",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Scholars Program students. Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS majors students. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 225",
+      "title": "Data Structures",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 233 Computer Architecture. Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages;",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "hardware primitives for parallelism and security. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS majors",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to CS and",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 233",
+      "title": "Computer Architecture",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 307 Modeling and Learning in Data Science. Introduction to the use of classical approaches in data modeling and machine learning in the context of",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "learning in the context of solving data-centric problems. A broad coverage of fundamental models is presented, including linear models, unsupervised",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "linear models, unsupervised learning, supervised learning, and deep learning. A significant emphasis is placed on the application of the models in",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "application of the models in Python and the interpretability of the results. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. restricted to students in DS+X majors initially, and open",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "majors initially, and open initially to students who were freshmen in Fall 2022 or earlier. Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 307",
+      "title": "Modeling and Learning in Data Science",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 340 Introduction to Computer Systems. Basics of computer systems. Number representations, assembly/machine language, abstract models of processors",
+    "metadata": {
+      "course_code": "CS 340",
+      "title": "Introduction to Computer Systems",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "abstract models of processors (fetch/execute, memory hierarchy), processes/process control, simple memory management, file I/O and directories,",
+    "metadata": {
+      "course_code": "CS 340",
+      "title": "Introduction to Computer Systems",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "file I/O and directories, network programming, usage of cloud services. Credit is not given for both CS 340 and CS 240. Prerequisites: CS 128 and CS",
+    "metadata": {
+      "course_code": "CS 340",
+      "title": "Introduction to Computer Systems",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Prerequisites: CS 128 and CS 225. Restrictions: Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 340",
+      "title": "Introduction to Computer Systems",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 341 System Programming. Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization,",
+    "metadata": {
+      "course_code": "CS 341",
+      "title": "System Programming",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in",
+    "metadata": {
+      "course_code": "CS 341",
+      "title": "System Programming",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools. Credit is not",
+    "metadata": {
+      "course_code": "CS 341",
+      "title": "System Programming",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "tools. Credit is not given for both CS 341 and either CS 241 or ECE 391. Prerequisites: CS 225 and CS 233. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 341",
+      "title": "System Programming",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students..",
+    "metadata": {
+      "course_code": "CS 341",
+      "title": "System Programming",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "CS 357 Numerical Methods I. Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "and use of high quality mathematical library routines. Same as MATH 357. Credit is not given towards graduation for CS 357 if credit for CS 450 has",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "357 if credit for CS 450 has been earned. (Counts for advanced hours in LAS). Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 357",
+      "title": "Numerical Methods I",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 361 Probability & Statistics for Computer Science. Introduction to probability theory and statistics with applications to computer science. Topics",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence,",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation,",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "classification, and decision trees. Same as STAT 361. Credit is not given for both CS 361 and ECE 313. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 361",
+      "title": "Probability & Statistics for Computer Science",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "CS 374 Introduction to Algorithms & Models of Computation. Analysis of algorithms, major paradigms of algorithm design including recursive algorithms,",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. Same as ECE 374. Prerequisites: One",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "ECE 374. Prerequisites: One of CS 173, MATH 213; CS 225. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to CS and blended CS majors students. Restricted to",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "students. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Computer Science major(s).",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "to Computer Science major(s). Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 374",
+      "title": "Introduction to Algorithms & Models of Computation",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "CS 400 Accelerated Fundamentals of Computing I. The first class in a sequence of two classes that introduces students to the basic concepts in",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "to the basic concepts in computing with an emphasis on the fundamental techniques for solving computational problems. Topics include: core",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Topics include: core programming concepts (variables, data types, conditional expressions, loops, functions), basic data structures, searching and",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "structures, searching and sorting algorithms, and data exploration and visualization. No prior programming experience is required. No undergraduate",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "is required. No undergraduate credit. 3 graduate hours. Restrictions: Restricted to postbaccalaureate students with a non-computing background.",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "a non-computing background. Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC..",
+    "metadata": {
+      "course_code": "CS 400",
+      "title": "Accelerated Fundamentals of Computing I",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 401 Accelerated Fundamentals of Algorithms I. The first class in a sequence of two classes that introduces students to the theoretical foundations",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "the theoretical foundations of computer science. Topics include counting, sets, functions, decision trees, recursion, binary numbers, basic graph",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "binary numbers, basic graph theory, depth first search and breadth first search, algorithms for computing shortest paths, data structures like stacks",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "data structures like stacks and queues, big O notation and asymptotic analysis, complexity classes like P and NP, and reductions. No undergraduate",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "reductions. No undergraduate credit. 3 graduate hours. Prerequisites: CS 225. Restrictions: Restricted to GCRT:ComputingFundam - UIUC or",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "- UIUC or GCRT:ComputingFundam ONL- UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "City Scholars students. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Sci OFF - UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to MCS:Computer Sci Online -UIUC.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "students. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 16
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 17
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 18
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 19
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 20
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 21
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 22
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 23
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 24
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 25
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 26
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 27
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 28
+    }
+  },
+  {
+    "text": "Restricted to O/C Engineering City Scholars students. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 29
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 30
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 31
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 32
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 33
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 34
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 35
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to MCS:Computer Sci Online -UIUC.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 36
+    }
+  },
+  {
+    "text": "Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 37
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 38
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 39
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 40
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 41
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 42
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 43
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 44
+    }
+  },
+  {
+    "text": "Restricted to O/C Engineering City Scholars students. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 45
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 46
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 47
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 48
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 49
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 50
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 51
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 52
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 53
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 54
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to MCS:Computer Sci",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 55
+    }
+  },
+  {
+    "text": "to MCS:Computer Sci Online -UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 56
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 57
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Computer Science",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 58
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 59
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 60
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 61
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 62
+    }
+  },
+  {
+    "text": "students. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC.",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 63
+    }
+  },
+  {
+    "text": "MCS: Computer Sci OFF - UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 64
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 401",
+      "title": "Accelerated Fundamentals of Algorithms I",
+      "chunk_index": 65
+    }
+  },
+  {
+    "text": "CS 461 Computer Security I. Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues,",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control,",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "detection, access control, cryptography, security protocols, key distribution. Same as ECE 422. 4 undergraduate hours. 4 graduate hours.",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "hours. 4 graduate hours. Prerequisites: CCS 225 and one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400. Restrictions:",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "or STAT 400. Restrictions: Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "O/C Engineering City Scholars students. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Graduate - Urbana-Champaign. Restricted to MCS:",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC..",
+    "metadata": {
+      "course_code": "CS 461",
+      "title": "Computer Security I",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "CS 464 Topics in Societal and Ethical Impacts of Computer Technology. Topics selected from key current areas of impact of computer technology on",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "of computer technology on aspects of society and ethics such as: freedom versus the rule of law in cyberspace; social discourse; privacy; livelihoods",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "privacy; livelihoods and automation; fairness; security; political change; business models; technology divide. 3 undergraduate hours. No graduate",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "hours. No graduate credit. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "of this course, if those offerings have significant overlap, as determined by the CS department. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 464",
+      "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 465 User Interface Design. A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "who participate in all aspects of the projects with the possible exception of implementation. 4 undergraduate hours. 4 graduate hours. Prerequisites:",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "hours. Prerequisites: CS 225. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to O/C Engineering City Scholars students. Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC..",
+    "metadata": {
+      "course_code": "CS 465",
+      "title": "User Interface Design",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "CS 468 Tech and Advertising Campaigns. Same as ADV 492. See ADV 492. Restrictions: Restricted to students with Junior or Senior class standing.",
+    "metadata": {
+      "course_code": "CS 468",
+      "title": "Tech and Advertising Campaigns",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "or Senior class standing. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 468",
+      "title": "Tech and Advertising Campaigns",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC..",
+    "metadata": {
+      "course_code": "CS 468",
+      "title": "Tech and Advertising Campaigns",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "CS 473 Algorithms. Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "and advanced topics such as network flow, linear programming, and dynamic data structures, among others. Same as CSE 414 and MATH 473. 4",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "as CSE 414 and MATH 473. 4 undergraduate hours. 4 graduate hours. Prerequisites: CS 374 or ECE 374. Restrictions: Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to MCS: Computer Sci OFF - UIUC.",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "MCS: Computer Sci OFF - UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Graduate - Urbana-Champaign. Restricted to MCS:",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 473",
+      "title": "Algorithms",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 483 Applied Parallel Programming. page 57 - Computer Science, Fall 2025 Same as CSE 408 and ECE 408. See ECE 408. Restrictions: Restricted to O/C",
+    "metadata": {
+      "course_code": "CS 483",
+      "title": "Applied Parallel Programming",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Restricted to O/C Engineering City Scholars students. Restricted to MENG:Elec & Comp Eng ONL -UIUC. Restricted to MCS:Computer Sci Online -UIUC.",
+    "metadata": {
+      "course_code": "CS 483",
+      "title": "Applied Parallel Programming",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Sci Online -UIUC. Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to GCRT:ComputingFundam - UIUC or",
+    "metadata": {
+      "course_code": "CS 483",
+      "title": "Applied Parallel Programming",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "- UIUC or GCRT:ComputingFundam ONL- UIUC..",
+    "metadata": {
+      "course_code": "CS 483",
+      "title": "Applied Parallel Programming",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 492 Senior Project I. First part of a project course in computer science. Students work in teams to solve typical commercial or industrial",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "commercial or industrial problems. Work involves planning, design, and implementation. Extensive oral and written work is required both on-campus and",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "required both on-campus and possibly off-campus at sponsors' locations. CS 492 must be taken as a sequence with either CS 493 or CS 494. 3",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "either CS 493 or CS 494. 3 undergraduate hours. No graduate credit. Credit is not given for both CS 492 and a project course in another engineering",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "course in another engineering department for the same project. Prerequisites: For majors only; junior or senior standing required. Restrictions:",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "required. Restrictions: Restricted to CS and blended CS majors students. Restricted to Undergrad - Urbana-Champaign. Restricted to Computer Science",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "to Computer Science major(s). Restricted to Undergrad - Urbana-Champaign. Restricted to O/C Engineering City Scholars students. Restricted to",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "students. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Electrical &",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Science or Electrical & Computer Engr or Bioinformatics major(s). Restricted to Graduate - UrbanaChampaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Undergrad - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Undergrad - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to Undergrad -",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Restricted to Undergrad - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 492",
+      "title": "Senior Project I",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "CS 499 Senior Thesis. Research and thesis development experience in computer science under guidance of a faculty member. Literature search, oral",
+    "metadata": {
+      "course_code": "CS 499",
+      "title": "Senior Thesis",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Literature search, oral presentation, analysis and implementation, paper preparation, and completion of a written thesis. 3 undergraduate hours. No",
+    "metadata": {
+      "course_code": "CS 499",
+      "title": "Senior Thesis",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisites: Consent of instructor. Restrictions: Restricted to",
+    "metadata": {
+      "course_code": "CS 499",
+      "title": "Senior Thesis",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Restrictions: Restricted to Computer Science major(s). Restricted to students with Senior class standing. Restricted to Undergrad - UrbanaChampaign..",
+    "metadata": {
+      "course_code": "CS 499",
+      "title": "Senior Thesis",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 507 Topics in Cryptography. Modern cryptography helps realize a variety of tasks: from computations on and proofs about secret data, to verifiably",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "secret data, to verifiably offloading computation to untrusted clients, to making programs unintelligible while preserving functionality, to testing",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "functionality, to testing untrusted quantum devices. Covers a selection of such cutting-edge topics in cryptography. We will understand how any",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "We will understand how any adversary that counters the security of modern protocols can be transformed into an adversary that contradicts basic",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "that contradicts basic mathematical assumptions. We will understand key ideas in recent cryptography research and identify new directions and",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "identify new directions and problems for the future. May be repeated, up to 8 hours in a single term, to a total of 16 graduate hours, if topics",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "16 graduate hours, if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "offerings have significant overlap, as determined by the CS department. Restrictions: Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 507",
+      "title": "Topics in Cryptography",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 508 Manycore Parallel Algorithms. page 64 - Computer Science, Fall 2025 Same as ECE 508. See ECE 508. Restrictions: Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 508",
+      "title": "Manycore Parallel Algorithms",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 508",
+      "title": "Manycore Parallel Algorithms",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "CS 511 Advanced Data Management. Advanced concepts in data management and information system design and implementation, and recent developments in the",
+    "metadata": {
+      "course_code": "CS 511",
+      "title": "Advanced Data Management",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction",
+    "metadata": {
+      "course_code": "CS 511",
+      "title": "Advanced Data Management",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information",
+    "metadata": {
+      "course_code": "CS 511",
+      "title": "Advanced Data Management",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "extraction, information integration, web search and mining, and other emerging directions in the field. Prerequisites: CS 411. Restrictions:",
+    "metadata": {
+      "course_code": "CS 511",
+      "title": "Advanced Data Management",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 411. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 511",
+      "title": "Advanced Data Management",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "CS 512 Data Mining Principles. An advanced course on principles and algorithms of data mining. Data cleaning and integration; descriptive and",
+    "metadata": {
+      "course_code": "CS 512",
+      "title": "Data Mining Principles",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "integration; descriptive and predictive mining; mining frequent, sequential, and structured patterns; clustering, outlier analysis and fraud",
+    "metadata": {
+      "course_code": "CS 512",
+      "title": "Data Mining Principles",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "outlier analysis and fraud detection; stream data, web, text, and biomedical data mining; security and privacy in data mining; research frontiers.",
+    "metadata": {
+      "course_code": "CS 512",
+      "title": "Data Mining Principles",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "mining; research frontiers. Prerequisites: CS 412. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 512",
+      "title": "Data Mining Principles",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 512",
+      "title": "Data Mining Principles",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "CS 521 Advanced Topics in Programming Systems. Advanced topics in building and verifying software systems, selected from areas of current research",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "areas of current research such as: model checking and automated verification, testing and automated test generation, program synthesis, runtime",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "program synthesis, runtime verification, machine learning and its applications in the design of verified systems, formal analysis of machine learning",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "analysis of machine learning algorithms, principles of programming languages and type systems. May be repeated if topics vary. Credit is not given",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "overlap, as determined by the CS department. Prerequisites: CS 374 or ECE 374; CS 421. Restrictions: Restricted to Computer Science or Bioinformatics",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to MCS Chicago Students. Restricted to",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Students. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 521",
+      "title": "Advanced Topics in Programming Systems",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 527 Topics in Software Engineering. Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based",
+    "metadata": {
+      "course_code": "CS 527",
+      "title": "Topics in Software Engineering",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "software, and knowledge-based approaches to software engineering. Case studies. Prerequisites: CS 428, CSE 429 or CS 429. Restrictions: Restricted to",
+    "metadata": {
+      "course_code": "CS 527",
+      "title": "Topics in Software Engineering",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 527",
+      "title": "Topics in Software Engineering",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "CS 537 Advanced Topics in Internet of Things (IoT). Advanced topics in Internet of Things (IoT) algorithms, protocols, architectures, systems, and",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "architectures, systems, and infrastructures, selected from areas of current research such as: IoT sensors representations and compression, streaming",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "and compression, streaming and caching of IoT data, IoT analytics and feature learning, IoT-edge-cloud computing infrastructures, resource",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "infrastructures, resource optimization for multi-modal IoT systems, applications and human perception of IoT. Students will read and discuss recent",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "will read and discuss recent research papers and conduct a semester-long research project. May be repeated, if topics vary. Credit towards a degree",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "overlap, as determined by the CS department. Prerequisites: One of CS 425 or ECE 428; one of CS 438 or ECE 438. Restrictions: Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 537",
+      "title": "Advanced Topics in Internet of Things (IoT)",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "CS 538 Advanced Computer Networks. Advanced concepts in computer networks, including congestion control, quality of service, naming, routing, wireless",
+    "metadata": {
+      "course_code": "CS 538",
+      "title": "Advanced Computer Networks",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "naming, routing, wireless networks, Internet architecture, measurement, network security, and selected recent research directions. Prerequisites: CS",
+    "metadata": {
+      "course_code": "CS 538",
+      "title": "Advanced Computer Networks",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "directions. Prerequisites: CS 438 or ECE 438. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 538",
+      "title": "Advanced Computer Networks",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 538",
+      "title": "Advanced Computer Networks",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CS 540 Deep Learning Theory. A rigorous mathematical course covering foundational analyses of the approximation, optimization, and generalization",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "and generalization properties of Deep Neural Networks. Topics include: constructive and non-constructive approximations with one hidden layer;",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "with one hidden layer; benefits of depth; optimization in the NTK regime; maximum margin optimization outside the NTK regime; Rademacher complexity,",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Rademacher complexity, VC dimensino, and covering number bounds for ReLU networks. Evaluation is primarily based on homeworks, with a smaller project",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "with a smaller project component. The course goal is to prepare students perform their own research in the field. Restrictions: Restricted to",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 540",
+      "title": "Deep Learning Theory",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 542 Statistical Reinforcement Learning. Theory of reinforcement learning, with a focus on sample complexity analyses. Specific topics include MDP",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Specific topics include MDP basics, finite-sample analyses of online (i.e., exploration) and offline (i.e., batch) RL with a tabular representation,",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "a tabular representation, finite-sample analyses of online and offline RL with function approximation, state abstraction theory, off-policy",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "theory, off-policy evaluation (importance sampling), and policy gradient. The course goal is to provide a comprehensive understanding of the",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "understanding of the statistical properties of RL under various settings (e.g., online vs offline), preparing the students for doing research in the",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "for doing research in the area. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 542",
+      "title": "Statistical Reinforcement Learning",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 543 Computer Vision. Same as ECE 549. See ECE 549. Restrictions: Restricted to Graduate - Urbana-Champaign. Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 543",
+      "title": "Computer Vision",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to MENG:Elec & Comp Eng ONL -UIUC..",
+    "metadata": {
+      "course_code": "CS 543",
+      "title": "Computer Vision",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "CS 545 Machine Learning for Signal Processing. Fundamentals of machine learning and signal processing as they pertain to the development of machines",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "the development of machines that can understand complex real-world signals, such as speech, images, movies, music, biological and mechanical",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "biological and mechanical readings, etc. Hands-on examples of how to decompose, analyze, classify, detect and consolidate signals, and examine",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "signals, and examine various commonplace operations such as finding faces from camera feeds, organizing personal music collections, designing speech",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "collections, designing speech dialog systems and understanding movie content. Prerequisites: MATH 415; one of CS 361, STAT 361, MATH 461, MATH 463 or",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "361, MATH 461, MATH 463 or STAT 400. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 545",
+      "title": "Machine Learning for Signal Processing",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "CS 546 Advanced Topics in Natural Language Processing. Advanced topics in natural language processing, ranging from general techniques such as deep",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "techniques such as deep learning for NLP to specific topics such as information extraction, knowledge acquisition, dialogue systems, language",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "dialogue systems, language grounding, and natural language generation. Review of classic as well as state-of-the-art techniques and remaining",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "techniques and remaining challenges, and exploration of recent proposals for meeting these challenges. Intended for graduate students doing research",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "students doing research in natural language processing. May be repeated in separate terms up to 16 hours, if topics vary. Credit towards a degree",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "overlap, as determined by the CS department. Prerequisites: CS 447 and one of CS 446 or ECE 449, or equivalent background. Restrictions: Restricted",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 546",
+      "title": "Advanced Topics in Natural Language Processing",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 562 Advanced Topics in Security, Privacy, and Machine Learning. Advanced topics in security and privacy problems in machine learning systems,",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "in machine learning systems, selected from areas of current research such as: adversarial machine learning, differential privacy, game theory enabled",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "privacy, game theory enabled defenses, robust learning methods, machine learning based cybercrime analysis, network intrusion detection, and malware",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "detection, and malware analysis, and machine learning interpretation techniques. May be repeated if topics vary. Credit is not given towards a degree",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department.",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "by the CS department. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 562",
+      "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 567 Social Signals and Social Media. Online social interactions occur in many arenas important to society and human well-being, but are mediated",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "well-being, but are mediated through algorithmic interventions that alter the users expectations in these social spaces. This class explores the",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "This class explores the presentation of self, the presentation of collectives, the presentation of news, and social dynamics in these online",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "dynamics in these online spaces--and how algorithmic intervention shapes them from the perspective of social signaling theory. Topics covered",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "theory. Topics covered include: the evolution of algorithmic matchmaking (as in online resume/ interviews and dating sites), why people share",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "sites), why people share misinformation, the mitigation of trolling, ethics, and bias in social media systems. Upon completion of this course,",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "completion of this course, students will have an up-to-date understanding of the design social media interfaces with incentive structures from social",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "structures from social signaling theory. Prerequisites: CS 465 or equivalent or permission of instructor. Restrictions: Restricted to Computer",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 567",
+      "title": "Social Signals and Social Media",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 571 Combinatorial Mathematics. Same as MATH 580. See MATH 580. Restrictions: Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 571",
+      "title": "Combinatorial Mathematics",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "CS 574 Randomized Algorithms. Basic and advanced concepts in the design and analysis of randomized algorithms. Sampling; concentration inequalities",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "concentration inequalities such as Chernoff-Hoeffding bounds; probabilistic method; random walks, dimension reduction; entropy; martingales and",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "entropy; martingales and Azuma's inequality; derandomization. Randomized algorithms for sorting and searching; graphs; geometric problems. Basics of",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "geometric problems. Basics of pseudorandomness and randomized complexity classes. Prerequisites: One of CS 473, CSE 414, or MATH 473; one of MATH",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "414, or MATH 473; one of MATH 461, MATH 463 or STAT 400. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 574",
+      "title": "Randomized Algorithms",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "CS 579 Computational Complexity. Turing machines; determinism and non-determinism; time and space hierarchy theorems; speed-up and tape compression;",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "and tape compression; Blum axioms; structure of complexity classes NP, P, NL, L, and PSPACE; complete problems; randomness and complexity classes RP,",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "and complexity classes RP, RL, and BPP; alternation, polynomial-time hierarchy; circuit complexity, parallel complexity, NC, and RNC; relativized",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "NC, and RNC; relativized computational complexity; time-space trade-offs. Same as ECE 579. Prerequisites: One of CS 473, CSE 414, MATH 473, CS 475 or",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "CSE 414, MATH 473, CS 475 or MATH 475. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 579",
+      "title": "Computational Complexity",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "CS 580 Topics in Algorithmic Game Theory. A theoretical CS course covering advances in algorithmic game theory. This includes study of strategic,",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "includes study of strategic, computational, learning, dynamic, and fairness aspects of games and markets (organizations that involves rational and",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "that involves rational and strategic agents). In particular, topics will include computation and complexity of equilibria, mechanism design,",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "equilibria, mechanism design, fair-division, dynamics in games and markets, price-of-anarchy etc.. These topics arise from applications such as",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "from applications such as online marketplaces (like Lyft, Uber, eBay, sponsored search, TaskRabbit), social networks, recommendation systems, kidney",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "systems, kidney exchange, spectrum auction, etc., and thereby will prepare students for related research and/or industry jobs. Prerequisites: CS 473.",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "jobs. Prerequisites: CS 473. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 580",
+      "title": "Topics in Algorithmic Game Theory",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "CS 582 Machine Learning for Bioinformatics. This graduate course on bioinformatics introduces a selection of topics in computational biology and",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "in computational biology and bioinformatics, with special emphasis on current problems in regulatory genomics and systems biology. Computational",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "biology. Computational approaches discussed will focus on Machine Learning techniques such as Bayesian inference, graphical models, supervised",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "graphical models, supervised learning and network analysis. Bioinformatics topics will be introduced through lectures by instructor and research",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "by instructor and research paper presentations by students, and include regulatory sequence analysis, cistromics, epigenomics, regulatory network",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "regulatory network reconstruction, non-coding variant interpretation, and protein structure and function prediction. A research project involving",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "A research project involving real data analysis with techniques related to course content is mandatory and will help prepare students for",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "help prepare students for bioinformatics research. Restrictions: Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 582",
+      "title": "Machine Learning for Bioinformatics",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "CS 584 Embedded System Verification. Same as ECE 584. See ECE 584. Prerequisites: CS 426. Restrictions: Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 16
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 17
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 18
+    }
+  },
+  {
+    "text": "Restricted to MCS:Computer Sci Online -UIUC. Restricted to MCS: Computer Sci OFF - UIUC. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 19
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 20
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 21
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 22
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 23
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 24
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 25
+    }
+  },
+  {
+    "text": "major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate -",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 26
+    }
+  },
+  {
+    "text": "Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign.",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 27
+    }
+  },
+  {
+    "text": "Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 28
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 29
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 30
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 31
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 32
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Graduate - Urbana-Champaign. Restricted to MCS:Computer Sci",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 33
+    }
+  },
+  {
+    "text": "to MCS:Computer Sci Online -UIUC. Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 34
+    }
+  },
+  {
+    "text": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 35
+    }
+  },
+  {
+    "text": "to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Restricted to Computer Science or Bioinformatics major(s).",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 36
+    }
+  },
+  {
+    "text": "or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign..",
+    "metadata": {
+      "course_code": "CS 584",
+      "title": "Embedded System Verification",
+      "chunk_index": 37
+    }
+  }
+]

@@ -1,9 +1,52 @@
-cat > .gitignore << EOF
+# Python
 venv/
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
 .env
+.env.local
+.env.production
+
+# Claude Code artifacts
+.claude/
+.claude_cache/
+.claude_temp/
+
+# API Cache and optimization files
+.api_cache/
+.hf_cache/
+.embedding_cache/
+
+# System files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
 *.log
-EOF
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data processing temporary files
+data/temp/
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints

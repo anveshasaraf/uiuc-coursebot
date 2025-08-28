@@ -6,7 +6,8 @@ from typing import Dict, List
 import json
 
 # Import your existing chatbot class
-from main import UIUCChatBot
+from chatbot import UIUCChatBot
+from config import Config
 
 # UIUC Color Palette - Minimal
 UIUC_BLUE = "#13294B" 
@@ -239,7 +240,7 @@ def main_chat_interface():
                 
                 current_session['messages'].append({
                     'type': 'bot',
-                    'content': result['answer'],  # No confidence or other metadata shown
+                    'content': result['answer'],
                     'timestamp': datetime.now()
                 })
                 
